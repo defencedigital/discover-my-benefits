@@ -1,0 +1,95 @@
+.flyout.flyout-is-active {
+  transform: translateX(-100%);
+  visibility: visible;
+}
+
+.header-nav.is-pinned .flyout {
+  position: fixed;
+}
+
+.flyout {
+  width: 570px;
+  transition: all 500ms ease-in-out;
+  transform: translateX(0);
+  top: 100px;
+  right: -575px;
+  z-index: 50;
+  position: absolute;
+  height: 100vh;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  background: white;
+  visibility: hidden;
+
+  li {
+    height: 100%;
+  }
+
+  @include media-breakpoint-down(md) {
+    width: 100%;
+    right: -100%;
+  }
+
+  @include media-breakpoint-down(sm) {
+    top: 63px;
+  }
+}
+
+.flyout-header {
+  background: $brand-primary;
+  text-align: left;
+  color: $text-color-invert;
+  width: 100%;
+}
+
+.flyout-main {
+  background: $gray-light;
+  text-align: left;
+  height: 100%;
+}
+
+.flyout-click-outside {
+  height: 100%;
+}
+
+.flyout-tabs.nav.nav-tabs .nav-item {
+  width: 50%;
+}
+
+.flyout-tabs.nav.nav-tabs .nav-link {
+  border: 0;
+  font-size: 2rem;
+  border-radius: 0;
+  width: 100%;
+  text-align: center;
+  background-color: $brand-primary;
+  color: white;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $brand-primary;
+    text-decoration: underline;
+  }
+
+  &::after,
+  &::before {
+    content: none;
+  }
+
+  &.active {
+    background-color: $gray-light;
+    color: $gray-dark;
+    text-decoration: underline;
+
+    &:hover {
+      background-color: $gray-light;
+    }
+  }
+}
+
+.flyout-main .tab-content {
+  background: $gray-light;
+}
+
+
+

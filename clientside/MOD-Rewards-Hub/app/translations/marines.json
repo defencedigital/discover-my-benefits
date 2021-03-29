@@ -1,0 +1,13 @@
+{
+  "app.components.HomePage.header": "This is the Marines HomePage component",
+  "app.components.ServicePage.header": "Explore your Royal Marines entitlements",
+  "app.components.ServicePage.searchTitle": "Discover My Benefits",
+  "app.components.ServicePage.searchSubtitle": "This tool helps you find out what benefits and allowances you could be entitled to as a Service person. You’ll be able to check your exact eligibility on some. Speak to your Unit HR to find out exactly what you’re entitled to and how to make a claim.",
+  "app.components.ProfilePage.header": "My details",
+  "app.components.ProfilePage.subtitle": "My details",
+  "app.components.ProfilePage.formCtaTitle": "Now go and explore the categories further",
+  "app.components.ProfilePage.formCtaSubtitle": "You have now completed those most frequently asked questions, which are used throughout the site. You should now be able to explore the other categories and find out how many more benefits you may be eligible for.",
+  "app.components.BenefitsComparatorQuestions.header": "Change of circumstances",
+  "app.components.NotFoundPage.header": "Our apologies",
+  "app.components.NotFoundPage.subtitle": "It looks like this page doesn't exist"
+}

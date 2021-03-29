@@ -1,0 +1,18 @@
+.form-cta-separator{
+  padding: 40px 0;
+  background: $gray-lighter;
+}
+
+.form-cta-separator .btn{
+  float: right;
+  display: block;
+}
+
+.form-cta-title{
+  font-size: 3.0rem;
+  font-weight: 600;
+  margin-bottom: 40px;
+  @include media-breakpoint-down(md) {
+    margin-bottom: 20px;
+  }
+}

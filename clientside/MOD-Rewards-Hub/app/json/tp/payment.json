@@ -1,0 +1,268 @@
+[
+  {
+    "band": "CDS",
+    "Location": "CP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "4* (in command/not in command)",
+    "Location": "CP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "3* (in command/not in command)",
+    "Location": "CP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "2* (in command/not in command)",
+    "Location": "CP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "OF6 (in command)",
+    "Location": "CP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "OF5 (in command)",
+    "Location": "CP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": "",
+    "Faslane": "",
+    "Aldershot": ""
+  },
+  {
+    "band": "OF6 (not in command)",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  },
+  {
+    "band": "OF5 (not in command)",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  },
+  {
+    "band": "OF4",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  },
+  {
+    "band": "OF3",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  },
+  {
+    "band": "OF2",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 315.56,
+    "Faslane": 352.65,
+    "Aldershot": 825.12
+  },
+  {
+    "band": "OF2 (4 or more children of any age)",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  },
+  {
+    "band": "OF1",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 315.56,
+    "Faslane": 352.65,
+    "Aldershot": 825.12
+  },
+  {
+    "band": "OF1 (4 or more children of any age)",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  },
+  {
+    "band": "RAF Warrant officers",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  },
+  {
+    "band": "RN/RM and Army WO1",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 315.66,
+    "Faslane": 352.65,
+    "Aldershot": 825.12
+  },
+  {
+    "band": "OR SP (2 or 3 children of any age)",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 315.66,
+    "Faslane": 352.65,
+    "Aldershot": 825.12
+  },
+  {
+    "band": "OR (with 0 or 1 child)",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 297.97,
+    "Faslane": 305.24,
+    "Aldershot": 676.26
+  },
+  {
+    "band": "OR SP (4 or more children of any age)",
+    "Location": "CP",
+    "Wittering": 125.0,
+    "Faslane": 125.0,
+    "Aldershot": 125.0
+  },
+  {
+    "band": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Faslane": 903.34,
+    "Aldershot": 1226.27
+  }
+]

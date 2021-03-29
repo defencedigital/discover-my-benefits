@@ -1,0 +1,40 @@
+.benchmark-panel{
+  margin: 40px 0 0;
+  position: relative;
+
+  .container-inner {
+    padding: 40px 0;
+    border-top: 1px solid $gray;
+  }
+
+  @include media-breakpoint-down(md) {
+
+    padding: 40px 0 0;
+    margin: 40px 0 0;
+
+    .copy-col{
+      padding-bottom: 0;
+    }
+  }
+}
+
+.benchmark-panel-title{
+  margin-bottom: 40px;
+}
+
+.benchmark-panel-figure{
+  padding: 10px 20px;
+  display: block;
+  width: 100%;
+  padding-top: 30px;
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  @include media-breakpoint-down(md) {
+    text-align: left;
+    padding: 10px 0;
+  }
+}
+

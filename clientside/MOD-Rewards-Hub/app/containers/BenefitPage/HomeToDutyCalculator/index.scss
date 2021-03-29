@@ -1,0 +1,40 @@
+.home-to-duty-calc {
+}
+
+.home-to-duty-calc .sep.first {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.home-to-duty-calc .sep.last{
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+
+input[type=number].form-control {
+  max-width: 80px;
+}
+
+.htd__total {
+  background-color: $brand-primary;
+  padding: 20px 0 15px;
+  color: $text-color-invert;
+  margin-bottom: 40px;
+}
+
+.htd-total__inner {
+  max-width: 830px;
+  margin: 0 auto;
+
+  > div {
+    align-self: center;
+  }
+
+  @include media-breakpoint-down(sm) {
+    padding: 0 20px;
+  }
+}
+
+.htd__pc {
+  // margin-top: 40px;
+}

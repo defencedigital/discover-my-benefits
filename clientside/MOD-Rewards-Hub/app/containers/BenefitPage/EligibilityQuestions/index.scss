@@ -1,0 +1,117 @@
+.eligibility-questions {
+  overflow: hidden;
+  display: flex;
+  align-items: stretch;
+  align-content: stretch;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-self: flex-start;
+  justify-content: center;
+  margin-bottom: 80px;
+  margin-top: -80px;
+  @include media-breakpoint-down(sm) {
+    align-items: flex-start;
+    flex-direction: column-reverse;
+    margin: 0;
+  }
+  width: 100%;
+}
+
+.eligibility-questions > .row{
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.eligibility-questions__col {
+  background-color: $gray-med;
+  padding: 50px;
+  height: 100%;
+  flex-flow: column nowrap;
+  @include media-breakpoint-down(sm) {
+    padding: 20px;
+    flex-flow: row nowrap;
+  }
+
+  &:last-of-type {
+    background-color: $gray-light;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+  }
+}
+
+.eligibility-questions__status {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+  flex-flow: column;
+}
+
+.eligibility-questions__status.run-anim{
+  h3{
+    animation: zoom 800ms linear;
+  }
+}
+
+.eligibility-questions__status h3 {
+  position: relative;
+  display: block;
+  padding-left: 35px;
+  margin: 0 auto 20px;
+}
+
+.eligibility-questions__status p {
+  display: block;
+  max-width: 100%;
+}
+
+.eligibility-questions__status .icon {
+  position: absolute;
+  left: 0;
+  top: 20px;
+  display: block;
+  width: 25px;
+  height: 25px;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+
+  @include media-breakpoint-down(sm) {
+    top: 12px;
+  }
+}
+
+.eligibility-questions__status .icon::after {
+  content: none;
+}
+
+.eligibility-questions__status .icon-eligible {
+  background: url('/' + $service + '/tick.svg');
+}
+
+.eligibility-questions__status .icon-missing {
+  background: url('/' + $service + '/question.svg');
+}
+
+.eligibility-questions__status .icon-not-eligible {
+  background: url('/' + $service + '/cross.svg');
+}
+
+
+
+@keyframes zoom {
+  0% {
+      transform: scale(1);
+  }
+  50% {
+      transform: scale(1.5);
+  }
+  100% {
+      transform: scale(1);
+  }
+}
+

@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "PayRangeCode": "OF9"
+  },
+  {
+    "ID": 2,
+    "PayRangeCode": "3*"
+  },
+  {
+    "ID": 3,
+    "PayRangeCode": "2*"
+  },
+  {
+    "ID": 4,
+    "PayRangeCode": "OF8"
+  },
+  {
+    "ID": 5,
+    "PayRangeCode": "OF7"
+  },
+  {
+    "ID": 6,
+    "PayRangeCode": "OF6"
+  },
+  {
+    "ID": 7,
+    "PayRangeCode": "OF5"
+  },
+  {
+    "ID": 8,
+    "PayRangeCode": "OF4"
+  },
+  {
+    "ID": 9,
+    "PayRangeCode": "OF3"
+  },
+  {
+    "ID": 10,
+    "PayRangeCode": "OF2"
+  },
+  {
+    "ID": 11,
+    "PayRangeCode": "OF1"
+  },
+  {
+    "ID": 12,
+    "PayRangeCode": "R5"
+  },
+  {
+    "ID": 13,
+    "PayRangeCode": "R4"
+  },
+  {
+    "ID": 14,
+    "PayRangeCode": "R3"
+  },
+  {
+    "ID": 15,
+    "PayRangeCode": "R2"
+  },
+  {
+    "ID": 16,
+    "PayRangeCode": "R1"
+  },
+  {
+    "ID": 17,
+    "PayRangeCode": "C1"
+  },
+  {
+    "ID": 18,
+    "PayRangeCode": "C2-4"
+  },
+  {
+    "ID": 19,
+    "PayRangeCode": "CDS"
+  },
+  {
+    "ID": 20,
+    "PayRangeCode": "OCFR"
+  },
+  {
+    "ID": 21,
+    "PayRangeCode": "OR2"
+  },
+  {
+    "ID": 22,
+    "PayRangeCode": "OR3"
+  },
+  {
+    "ID": 23,
+    "PayRangeCode": "OR4"
+  },
+  {
+    "ID": 24,
+    "PayRangeCode": "OR5"
+  },
+  {
+    "ID": 25,
+    "PayRangeCode": "OR6"
+  },
+  {
+    "ID": 26,
+    "PayRangeCode": "OR7"
+  },
+  {
+    "ID": 27,
+    "PayRangeCode": "OR8"
+  },
+  {
+    "ID": 28,
+    "PayRangeCode": "OR9"
+  },
+  {
+    "ID": 29,
+    "PayRangeCode": "DCG"
+  },
+  {
+    "ID": 30,
+    "PayRangeCode": "NERP"
+  }
+]

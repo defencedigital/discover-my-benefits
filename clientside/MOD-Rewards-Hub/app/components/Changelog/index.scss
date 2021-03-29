@@ -1,0 +1,52 @@
+.changelog {
+  padding: 30px;
+  width: 100%;
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
+}
+
+.changelog.is-fixed {
+  position: fixed;
+  top: 150px;
+  width: 32%;
+}
+
+.changelog-flyout .changelog {
+  @include media-breakpoint-down(md) {
+    display: block;
+    width: 100%;
+  }
+}
+
+.changelog-flyout .changelog-row {
+  border-top: 1px solid $gray-light;
+
+  &:last-of-type {
+    border-bottom: 1px solid $gray-light;
+  }
+}
+
+.changelog-header {
+  padding: 20px 0;
+}
+
+.changelog-row {
+  &:last-of-type {
+    border-bottom: 1px solid white;
+  }
+
+  p {
+    font-weight: 600;
+
+    &:last-child {
+      margin-top: 25px;
+    }
+  }
+}
+
+p.changelog-small,
+span.changelog-small,
+ {
+  font-weight: normal;
+}

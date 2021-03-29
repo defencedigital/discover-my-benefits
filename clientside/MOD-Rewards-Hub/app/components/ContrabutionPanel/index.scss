@@ -1,0 +1,41 @@
+.contrabution-panel{
+  padding: 60px 0;
+  margin: 0 0 60px;
+  background-color: $brand-primary;
+  position: relative;
+  color: $text-color-invert;
+
+  @media screen and (max-width: $breakpoint-md) {
+    .copy-col{
+      padding-bottom: 0;
+    }
+  }
+}
+
+.contrabution-panel-title{
+  margin-bottom: 40px;
+}
+
+.contrabution-panel-separator{
+  border-top: 1px solid $gray-dark;
+  margin: 40px 0 50px;
+  display: block;
+  width: 100%;
+}
+
+.contrabution-panel-figure{
+  padding: 0 20px 40px;
+  display: block;
+  width: 100%;
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  @media screen and (max-width: $breakpoint-md) {
+    padding: 0 0 20px;
+    text-align: left;
+    margin-top: -15px;
+  }
+}
+

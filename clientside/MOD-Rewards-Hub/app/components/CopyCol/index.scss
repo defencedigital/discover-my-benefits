@@ -1,0 +1,21 @@
+.copy-col{
+  padding-bottom: 30px;
+}
+
+.copy-col img{
+  max-width: 100%;
+}
+
+.copy-col .image .mobile-image{
+  display: none;
+  @include media-breakpoint-down(md) {
+    display: block;
+  }
+}
+
+.copy-col .image .desktop-image{
+  display: block;
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
+}

@@ -1,0 +1,19 @@
+.error{
+  padding: 50px 0 80px;
+  width: 100%;
+
+
+  @include media-breakpoint-down(sm) {
+
+    padding: 20px 0 15px;
+  }
+}
+
+.error h1{
+  margin-bottom: 30px;
+}
+
+.error-subtitle{
+  margin-bottom: 40px;
+  font-weight: 600;
+}

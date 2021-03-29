@@ -1,0 +1,51 @@
+@import './breakpoints.scss';
+@import './grey-scale-variables.scss';
+
+//== Colors
+//
+//## Gray and brand colors for use across Bootstrap.
+$service: 'raf';
+
+$brand-success: #009933;
+$brand-info: #5bc0de;
+$brand-warning: #ff9933;
+$brand-danger: #cc0000;
+
+$brand-primary: #002956; // #337ab7
+$brand-primary-beta: #1a2e46;
+$brand-secondary-alpha: #3173b5;
+$brand-secondary-beta: #ce1232;
+
+$brand-secondary-alpha-darker: #235180;
+$brand-secondary-beta-darker: #7a1321;
+
+$brand-eligible: $brand-success;
+$brand-ineligible: #9c9c9c;
+
+//Scaffolding
+
+//** Background color for `<body>`.
+$body-bg: #ffffff;
+//** Global text color on `<body>`.
+$text-color: $brand-primary;
+$text-color-invert: #ffffff;
+
+//** Global textual link color.
+$link-color: $brand-primary;
+//** Link hover color set via `darken()` function.
+$link-hover-color: $brand-secondary-alpha;
+//** Link hover decoration.
+$link-hover-decoration: underline;
+
+$btn-text-color: #ffffff;
+
+$headings-color: $text-color;
+
+$container-color: #ffffff;
+$contrast-text-color: #fff;
+
+$theme-colors: (
+  primary: $brand-primary,
+) !default;
+
+$jumbotron-padding: 1rem;

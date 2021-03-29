@@ -1,0 +1,117 @@
+[
+  {
+    "band": "CDS",
+    "Wittering": null,
+    "Faslane": null,
+    "Aldershot": null
+  },
+  {
+    "band": "4* (in command/not in command)",
+    "Wittering": null,
+    "Faslane": null,
+    "Aldershot": null
+  },
+  {
+    "band": "3* (in command/not in command)",
+    "Wittering": null,
+    "Faslane": null,
+    "Aldershot": null
+  },
+  {
+    "band": "2* (in command/not in command)",
+    "Wittering": null,
+    "Faslane": null,
+    "Aldershot": null
+  },
+  {
+    "band": "OF6 (in command)",
+    "Wittering": null,
+    "Faslane": null,
+    "Aldershot": null
+  },
+  {
+    "band": "OF5 (in command)",
+    "Wittering": null,
+    "Faslane": null,
+    "Aldershot": null
+  },
+  {
+    "band": "OF6 (not in command)",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  },
+  {
+    "band": "OF5 (not in command)",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  },
+  {
+    "band": "OF4",
+    "Base": "Benchmark",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  },
+  {
+    "band": "OF3",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  },
+  {
+    "band": "OF2",
+    "Wittering": 725.0,
+    "Faslane": 750.0,
+    "Aldershot": 1200.0
+  },
+  {
+    "band": "OF2 (4 or more children of any age)",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  },
+  {
+    "band": "OF1",
+    "Wittering": 725.0,
+    "Faslane": 750.0,
+    "Aldershot": 1200.0
+  },
+  {
+    "band": "OF1 (4 or more children of any age)",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  },
+  {
+    "band": "RAF Warrant officers",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  },
+  {
+    "band": "RN/RM and Army WO1",
+    "Wittering": 725.0,
+    "Faslane": 750.0,
+    "Aldershot": 1200.0
+  },
+  {
+    "band": "OR SP (2 or 3 children of any age)",
+    "Wittering": 725.0,
+    "Faslane": 750.0,
+    "Aldershot": 1200.0
+  },
+  {
+    "band": "OR (with 0 or 1 child)",
+    "Wittering": 650.0,
+    "Faslane": 650.0,
+    "Aldershot": 995.0
+  },
+  {
+    "band": "OR SP (4 or more children of any age)",
+    "Wittering": 1000.0,
+    "Faslane": 1350.0,
+    "Aldershot": 1650.0
+  }
+]

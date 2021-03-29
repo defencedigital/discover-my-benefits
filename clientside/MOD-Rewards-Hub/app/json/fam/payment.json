@@ -1,0 +1,98 @@
+[
+  {
+    "band": "A",
+    "Number of dependants": "Single/Single Sharer",
+    "Location": "CP",
+    "Wittering": 125,
+    "Aldershot": 125,
+    "Faslane": 125
+  },
+  {
+    "band": "",
+    "Number of dependants": "",
+    "Location": "GP",
+    "Wittering": 86.48,
+    "Aldershot": 275.63,
+    "Faslane": 90.12
+  },
+  {
+    "band": "B",
+    "Number of dependants": "Couple/ 1 Dep",
+    "Location": "CP",
+    "Wittering": 125,
+    "Aldershot": 125,
+    "Faslane": 125
+  },
+  {
+    "band": "",
+    "Number of dependants": "",
+    "Location": "GP",
+    "Wittering": 297.97,
+    "Aldershot": 676.26,
+    "Faslane": 305.24
+  },
+  {
+    "band": "C",
+    "Number of dependants": "2 Deps",
+    "Location": "CP",
+    "Wittering": 125,
+    "Aldershot": 125,
+    "Faslane": 125
+  },
+  {
+    "band": "",
+    "Number of dependants": "",
+    "Location": "GP",
+    "Wittering": 306.77,
+    "Aldershot": 750.69,
+    "Faslane": 328.94
+  },
+  {
+    "band": "D",
+    "Number of dependants": "3 Deps",
+    "Location": "CP",
+    "Wittering": 125,
+    "Aldershot": 125,
+    "Faslane": 125
+  },
+  {
+    "band": "",
+    "Number of dependants": "",
+    "Location": "GP",
+    "Wittering": 315.66,
+    "Aldershot": 825.12,
+    "Faslane": 352.65
+  },
+  {
+    "band": "E",
+    "Number of dependants": "4 Deps",
+    "Location": "CP",
+    "Wittering": 125,
+    "Aldershot": 125,
+    "Faslane": 125
+  },
+  {
+    "band": "",
+    "Number of dependants": "",
+    "Location": "GP",
+    "Wittering": 425.12,
+    "Aldershot": 1025.69,
+    "Faslane": 627.99
+  },
+  {
+    "band": "F",
+    "Number of dependants": "5 Deps",
+    "Location": "CP",
+    "Wittering": 125,
+    "Aldershot": 125,
+    "Faslane": 125
+  },
+  {
+    "band": "",
+    "Number of dependants": "",
+    "Location": "GP",
+    "Wittering": 534.67,
+    "Aldershot": 1226.27,
+    "Faslane": 903.34
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "ID": 1,
+    "TableName": "Senior Officers",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 2,
+    "TableName": "Officers",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 3,
+    "TableName": "Officers Commissioned From The Ranks",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 4,
+    "TableName": "Nursing Officers",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 5,
+    "TableName": "Chaplain Officers",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 6,
+    "TableName": "Professional Aviator Officers & Other Ranks",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 7,
+    "TableName": "SF Officers Commissioned From The Ranks",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 8,
+    "TableName": "University Cadet Entrants",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 9,
+    "TableName": "Other Ranks - Higher Pay Band ARCHIVE",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 10,
+    "TableName": "Other Ranks - Lower Pay Band ARCHIVE",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 11,
+    "TableName": "Nurses Other Ranks",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 12,
+    "TableName": "Divers Other Ranks",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 13,
+    "TableName": "Special Forces Other Ranks",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 14,
+    "TableName": "Medical And Dental",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 16,
+    "TableName": "Higher Medical Management Pay Spine",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 18,
+    "TableName": "Accredited Consultants",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 19,
+    "TableName": "Accredited Gmps And Gdps",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 20,
+    "TableName": "Non-Accredited Medical Officers",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 21,
+    "TableName": "Accredited Medical And Dental Officers",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 22,
+    "TableName": "Non-Accredited Medical And Dental Officers",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 23,
+    "TableName": "Medical And Dental Officers",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 24,
+    "TableName": "Other Ranks - Supplement Level 1",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 25,
+    "TableName": "Other Ranks - Supplement Level 2",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 26,
+    "TableName": "Other Ranks - Supplement Level 3",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 27,
+    "TableName": "Other Ranks - Supplement Level 4",
+    "IsUniquePayTable": 0
+  },
+  {
+    "ID": 28,
+    "TableName": "Medical and Dental Cadets",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 29,
+    "TableName": "Veterinary Officers",
+    "IsUniquePayTable": -1
+  },
+  {
+    "ID": 30,
+    "TableName": "Other Ranks - Military Provost Guard Service",
+    "IsUniquePayTable": -1
+  }
+]

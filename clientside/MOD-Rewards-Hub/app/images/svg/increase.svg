@@ -1,0 +1,14 @@
+
+<svg width="11px" height="15px" viewBox="0 0 11 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="🔄-Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/arrow/up" transform="translate(1.000000, 0.000000)">
+            <g id="Group" transform="translate(4.500000, 6.500000) rotate(-180.000000) translate(-4.500000, -6.500000) translate(-1.000000, 0.000000)">
+                <path d="M2.52424271,13.3219533 L2.52424271,6.23704522 C2.52424271,5.68476047 2.97195796,5.23704522 3.52424271,5.23704522 C3.77180538,5.23704522 4.0105681,5.32887404 4.19432958,5.49476254 L8.1465703,9.06260094 C8.5565217,9.4326797 8.58884487,10.0650191 8.2187661,10.4749705 C8.19435373,10.5020131 8.16848179,10.5277014 8.14126601,10.5519205 L4.18902529,14.0689902 C3.77644821,14.4361395 3.1443551,14.399313 2.77720582,13.9867359 C2.61426277,13.8036317 2.52424271,13.5670606 2.52424271,13.3219533 Z" id="Mask" fill="#009933" fill-rule="nonzero" transform="translate(5.500367, 9.779505) rotate(-270.000000) translate(-5.500367, -9.779505) "></path>
+                <path d="M5.5,8.5 L5.5,0.4375" id="Line" stroke="#009933" stroke-width="3" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+---
+defaults: &defaults
+    memory: 128M
+    buildpacks:
+        - staticfile_buildpack
+
+applications:
+  - name: mod-benefits-calculator-dev-civilian
+    <<: *defaults
+  - name: mod-benefits-calculator-uat-civilian
+    <<: *defaults
+  - name: mod-benefits-calculator-prod-civilian
+    <<: *defaults
+    instances: 2

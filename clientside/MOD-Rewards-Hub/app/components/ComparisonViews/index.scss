@@ -1,0 +1,105 @@
+.comparison-views {
+  width: 100%;
+  @include media-breakpoint-down(md) {
+    overflow: auto;
+    width: 100%;
+  }
+}
+
+.comparison-views-wrap {
+  width: 100%;
+
+  @include media-breakpoint-down(md) {
+    white-space: nowrap;
+    width: 180%;
+  }
+
+  > .row {
+    margin: 0;
+  }
+}
+
+.comparison-view {
+  width: 100%;
+  padding: 0;
+  white-space: normal;
+}
+
+.comparison-view-content {
+  width: 100%;
+}
+
+.comparison-view-col-right {
+  text-align: right;
+}
+
+.comparison-view-title {
+  padding-bottom: 30px;
+
+  @include media-breakpoint-down(md) {
+    font-size: 2.4rem;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+  }
+}
+
+.comparison-view-subtitle {
+  color: white;
+  @include media-breakpoint-down(md) {
+    font-size: 1.6rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    word-break: break-word;
+  }
+}
+
+.comparison-view-before .comparison-view-header {
+  background: $gray-dark;
+  position: relative;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+
+  &::after {
+    position: absolute;
+    right: -30px;
+    content: '';
+    background: url('../../images/triangle.png') no-repeat;
+    display: block;
+    bottom: 0;
+    top: 0;
+    width: 30px;
+    height: 100%;
+    background-size: 40% 100%;
+  }
+}
+
+.comparison-view-after .comparison-view-header {
+  background: lighten($gray-dark, 15%);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.comparison-view-header {
+  background: $gray-dark;
+  color: white;
+  width: 100%;
+  padding: 50px 50px 0 50px;
+  @include media-breakpoint-down(md) {
+    padding: 20px 20px 0 20px;
+    min-height: 200px;
+  }
+}
+
+.comparison-view-row {
+  border-top: 1px solid $gray-light;
+  border-bottom: 1px solid $gray-light;
+  padding: 20px 0 10px;
+
+  @include media-breakpoint-down(md) {
+    padding: 10px 0 10px;
+  }
+}
+
+.comparison-view-row + .comparison-view-row {
+  border: 0;
+}

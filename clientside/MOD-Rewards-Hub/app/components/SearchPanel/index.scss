@@ -1,0 +1,46 @@
+.search-panel {
+	width: 100%;
+	max-width: 1110px;
+  padding: 40px 0;
+  text-align: center;
+  margin: 0 auto;
+	position: relative;
+
+  @include media-breakpoint-down(sm) {
+    padding: 30px 10px 100px;
+  }
+}
+
+.search-panel-bg-primary {
+  background: $brand-primary;
+  color: $text-color-invert;
+}
+
+.search-panel-bg-gray {
+  background: $gray-light;
+}
+
+
+.search-panel-search {
+  padding-bottom: 20px;
+
+}
+
+.search-panel .tag{
+  background-color: $brand-primary;
+  color: white;
+  padding: 5px;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  margin: 5px 0 0 5px;
+  display: inline-block;
+}
+
+.search-panel .tag-0{
+  margin: 5px 0 0 -3px;
+}
+
+.search-benefit-desc{
+  font-size: 1.3rem;
+  display:block;
+}

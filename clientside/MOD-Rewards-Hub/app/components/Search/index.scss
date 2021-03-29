@@ -1,0 +1,144 @@
+.search-select {
+  width: 100%;
+  text-align: left;
+  display: inline-block;
+  // padding-right: 80px;
+  width: 100%;
+  line-height: 1.9rem;
+  vertical-align: top;
+  //padding-right: 100px;
+  @include media-breakpoint-down(md) {
+    padding: 0 20px;
+  }
+
+  .Select-arrow-zone {
+    display: none;
+  }
+
+  .Select-clear{
+    font-size: 24px;
+  }
+}
+
+.role-panel .search-select {
+  //padding-right: 170px;
+  @include media-breakpoint-down(md) {
+    padding: 0 10px;
+  }
+}
+
+.search-inline {
+  position: relative;
+  margin: 0 auto;
+  max-width: 750px;
+  //height: 44px;
+	max-height: 49px;
+	// padding-right: 90px;
+  @include media-breakpoint-down(md) {
+    width: 100%;
+		margin-bottom: 20px;
+		padding-right: 0;
+  }
+}
+
+.search-btn {
+  position: absolute;
+  right: 0;
+  height: 45px;
+  vertical-align: top;
+  margin-left: 20px;
+  @include media-breakpoint-down(md) {
+    display: block;
+    margin: 20px auto;
+    position: relative;
+  }
+}
+
+.search-select .Select-control {
+  height: 44px;
+  max-width: 100%;
+  overflow: hidden;
+  padding-left: 40px;
+
+  &:before{
+    content: '';
+    display: block;
+    background: url('/' + $service + '/search.svg') no-repeat;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+  }
+
+}
+
+.search-select .Select-placeholder{
+  padding-left: 50px;
+}
+
+.search-select .Select-multi-value-wrapper,
+.search-select .Select-placeholder,
+.search-select .Select--single > .Select-control .Select-value {
+  height: 100%;
+  line-height: 4.5rem;
+  font-size: 1.6rem;
+  color: $brand-primary;
+  margin-top: 1px;
+}
+
+.Select.has-value.Select--single > .Select-control .Select-value .Select-value-label,
+.Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value .Select-value-label {
+  line-height: 4.5rem;
+  color: $brand-primary;
+}
+
+.search-select .Select-menu-outer {
+  position: absolute;
+  top: 52px;
+  width: calc(100% - 0px);
+  right: 80px;
+
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
+}
+
+.search-select .Select-input {
+  height: 100%;
+  width: 100%;
+  line-height: 4.5rem;
+  font-size: 1.6rem;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.search-select .Select-input input{
+  max-width: 613px;
+
+  @include media-breakpoint-down(md) {
+    max-width: 100%;
+  }
+}
+
+.role-panel-search .search-select .Select-input input{
+  max-width: 540px;
+
+  @include media-breakpoint-down(md) {
+    max-width: 100%;
+  }
+}
+
+.Select-menu-outer {
+  font-size: 1.6rem;
+}
+
+.role-panel-search .search-select .Select-menu-outer {
+  width: calc(100% - 0px);
+  top: 51px;
+
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
+
+}

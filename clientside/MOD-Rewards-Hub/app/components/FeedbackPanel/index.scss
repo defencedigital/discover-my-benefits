@@ -1,0 +1,82 @@
+.fieldset-radio-choices {
+  margin-right: 10px;
+}
+
+.feedback-panel {
+  position: relative;
+}
+
+.feedback-panel-stage-1 {
+  padding-top: 10px;
+}
+
+.feedback-panel-stage-1 button {
+  text-decoration: underline;
+}
+
+.feedback-panel-stage-2 {
+  transition: all ease-in-out 500ms;
+  max-height: 646px;
+  opacity: 1;
+}
+
+.feedback-panel-stage-2-wrapper {
+  border-top: 8px $brand-primary solid;
+}
+
+.feedback-panel-stage-2-wrapper > .container-inner {
+  position: relative;
+}
+
+.feedback-panel-stage-2.is-hidden {
+  max-height: 0;
+  opacity: 0;
+}
+
+.feedback-panel-stage-2 .container-inner {
+  position: relative;
+}
+
+.feedback-panel .hide {
+  position: absolute;
+  top: -8px;
+  right: 0;
+  z-index: 2;
+}
+
+.feedback-panel-recaptcha {
+  position: relative;
+  padding: 10px 0 5px;
+  background-color: black !important;
+}
+
+.feedback-panel-recaptcha a {
+  margin: 0 10px;
+}
+
+.feedback-panel-recaptcha__inner {
+  position: relative;
+
+  img {
+    display: none;
+  }
+}
+
+.feedback-panel .form-text {
+  color: white;
+}
+
+.top-panel p {
+  position: relative;
+}
+
+.loading {
+  position: absolute;
+  left: -25px;
+  top: 2px;
+}
+
+.grecaptcha-logo,
+.grecaptcha-badge {
+  display: none;
+}
