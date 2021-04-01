@@ -1,0 +1,14 @@
+﻿################################################################################
+# ServerSide
+################################################################################
+
+/ServerSide/.vs
+/ServerSide/src/.vs/MOD Benefits Calculator API
+/ServerSide/src/MODBenefitsCalculator.API/bin
+/ServerSide/src/MODBenefitsCalculator.API/obj
+*.user
+/ServerSide/www
+/ServerSide/src/MODBenefitsCalculator.API/.config/dotnet-tools.json
+/ServerSide/src/MODBenefitsCalculator.API/MODBenefitsCalculator.API.xml
+/ServerSide/src/.DS_Store
+/.vs/*

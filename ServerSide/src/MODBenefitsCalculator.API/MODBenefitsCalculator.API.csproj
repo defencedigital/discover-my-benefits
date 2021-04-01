@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>MODBenefitsCalculator.API</RootNamespace>
+    <Configurations>Debug;Release;Prod;UAT</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='UAT|AnyCPU'">
+    <DocumentationFile>C:\working_git\MOD\MOD-Rewards-Hub-API\src\MODBenefitsCalculator.API\MODBenefitsCalculator.API.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\working_git\MOD\MOD-Rewards-Hub-API\src\MODBenefitsCalculator.API\MODBenefitsCalculator.API.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\working_git\MOD\MOD-Rewards-Hub-API\src\MODBenefitsCalculator.API\MODBenefitsCalculator.API.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MODBenefitsCalculator.API.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mindscape.Raygun4Net.AspNetCore" Version="6.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.3.1" />
+    <PackageReference Include="System.Runtime.Caching" Version="4.7.0" />
+  </ItemGroup>
+
+
+</Project>
