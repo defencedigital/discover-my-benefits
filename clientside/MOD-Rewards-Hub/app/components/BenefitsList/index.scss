@@ -1,0 +1,173 @@
+.flyout .benefits-list {
+  padding: 30px 50px 100px 30px;
+
+  @include media-breakpoint-down(sm) {
+    padding: 20px 20px 100px 10px;
+  }
+}
+
+.comparison-view-before .benefits-list {
+  background: darken($gray-light, 5%);
+}
+
+.comparison-views .benefits-list {
+  @include media-breakpoint-down(md) {
+    padding: 10px;
+  }
+}
+
+.comparison-view-before .benefits-list .benefits-list-row.has-changed {
+  position: relative;
+  background: $gray-dark;
+  color: white;
+
+  a {
+    color: inherit;
+  }
+}
+
+.comparison-view-after .benefits-list .benefits-list-row.has-changed {
+  position: relative;
+  background: lighten($gray-dark, 15%);
+  color: white;
+
+  a {
+    color: inherit;
+  }
+}
+
+.benefits-list {
+  background: $gray-light;
+  padding: 50px 0;
+  text-align: left;
+
+  .benefits-list-row-header {
+    margin-bottom: 14px;
+  }
+
+  @include media-breakpoint-down(sm) {
+    padding: 20px;
+  }
+}
+
+.benefit-list-section {
+  margin-bottom: 4rem;
+}
+
+.flyout .benefits-list-row {
+  padding: 20px 10px 10px;
+}
+
+.benefits-list-row {
+  padding: 20px 50px 10px;
+  width: 100%;
+  margin: 0;
+  @include media-breakpoint-down(md) {
+    padding: 10px 20px 5px;
+  }
+}
+
+.benefits-list-row p {
+  @include media-breakpoint-down(md) {
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+  }
+}
+
+.row-bdr-top {
+  border-top: 1px solid $text-color-invert;
+}
+
+.row-bdr-bottom {
+  border-bottom: 1px solid $text-color-invert;
+}
+
+.benefits-list-col-right {
+  text-align: right;
+}
+
+.benefits-list-col-right .icon {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-height: 25px;
+
+  @include media-breakpoint-down(xs) {
+    &::after {
+      background-size: contain;
+      right: 0 !important;
+    }
+  }
+}
+
+.icon {
+  position: relative;
+  padding-right: 25px;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  display: block;
+  top: 50%;
+  transform: translateY(-55%);
+}
+
+.icon.icon-left {
+  left: -15px;
+  transform: none;
+  position: absolute;
+  top: 20px;
+}
+
+.icon.icon-not-eligible {
+  &::after {
+    content: '';
+    display: block;
+    margin-left: 10px;
+    margin-top: -2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: url('/' + $service + '/cross.svg') no-repeat;
+    right: 0;
+  }
+}
+
+.icon.icon-missing {
+  &::after {
+    content: '';
+    display: block;
+    margin-left: 10px;
+    margin-top: -2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: url('/' + $service + '/question.svg') no-repeat;
+    right: 0;
+  }
+}
+
+.icon.icon-eligible {
+  &::after {
+    content: '';
+    display: block;
+    margin-left: 10px;
+    margin-top: -2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: url('/' + $service + '/tick.svg') no-repeat;
+    right: 0;
+  }
+}
+
+.badge {
+  font-size: 1.4rem;
+  float: right;
+  @include media-breakpoint-down(xs) {
+    float: left;
+  }
+}

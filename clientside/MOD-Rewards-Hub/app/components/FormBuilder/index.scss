@@ -1,0 +1,187 @@
+form {
+  max-width: 1720px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.benefit-heading__row + form.coc-form {
+  background-color: white;
+  border: none;
+
+  .form-group {
+    background-color: white;
+  }
+
+}
+
+form.coc-form {
+  text-align: left;
+  background-color: transparent;
+  padding: 10px;
+  border-top: 1px solid $gray-dark;
+  .form-group {
+    background-color: transparent;
+  }
+
+  .question-heading {
+    padding: 14px 23px;
+    margin-bottom: 0;
+    background-color: $gray-med;
+  }
+
+  .coc-wrapper {
+    padding: 40px 23px 40px 23px;
+  }
+}
+
+.form {
+  padding: 50px 0 80px;
+}
+
+.form-intro {
+  margin-bottom: 50px;
+}
+
+.form-intro .h1 {
+  margin-bottom: 40px;
+}
+
+.input-group-text {
+  font-size: 1.4rem;
+}
+
+.text-muted {
+  color: $gray-dark !important;
+}
+
+//Forms
+
+::-webkit-input-placeholder {
+  color: $gray-dark;
+  opacity: 1;
+  font-size: 1.4rem;
+  line-height: 2.6rem;
+}
+
+label,
+legend {
+  font-weight: 600;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+.form-check {
+  position: relative;
+  top: -5px;
+
+  label {
+    line-height: 2.6rem;
+  }
+}
+
+.form-group > fieldset {
+  padding-bottom: 0;
+}
+
+select {
+  font-size: 1.6rem;
+}
+
+.form-control {
+  font-size: 1.6rem;
+  height: 38px;
+  line-height: 2.4rem;
+  //width: 75%;
+
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
+}
+
+.form-check-label {
+  margin-right: 20px;
+
+  p {
+    margin-left: 15px;
+  }
+}
+
+select.form-control:not([size]):not([multiple]) {
+  height: 38px;
+}
+
+.form-group {
+  padding: 10px 0;
+  margin-bottom: 0;
+  font-size: 1.6rem;
+}
+
+.SingleDatePicker {
+  width: 100%;
+  display: block;
+  height: 38px;
+  overflow: visible;
+}
+
+.SingleDatePicker > div {
+  height: 100%;
+  width: 100%;
+}
+
+.SingleDatePickerInput {
+  border-radius: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+.DateInput {
+  background-color: transparent;
+  width: 100%;
+}
+
+.DateInput_input {
+  padding: 0.375rem 0.75rem;
+  background-color: transparent;
+  font-size: 1.6rem;
+  font-family: $font-family-sans-serif;
+  color: $gray-dark;
+  font-weight: 500;
+}
+
+.SingleDatePickerInput_clearDate__default:hover {
+  background-color: transparent;
+}
+
+.DateInput_input__focused {
+  border-bottom: none;
+}
+
+.CalendarDay__selected,
+.CalendarDay__selected:active,
+.CalendarDay__selected:hover {
+  background: $brand-primary;
+  color: $text-color-invert;
+  border: 1px solid $brand-primary;
+}
+
+.DayPickerKeyboardShortcuts_show__bottomRight {
+  border-right: 33px solid $brand-primary;
+}
+
+.DayPicker_weekHeaders small {
+  font-size: 1.4rem;
+}
+
+.DayPicker_weekHeader {
+  top: 52px;
+}

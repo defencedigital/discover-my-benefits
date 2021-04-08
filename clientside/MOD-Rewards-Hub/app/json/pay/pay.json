@@ -1,0 +1,8129 @@
+[
+  {
+    "ID": 1,
+    "PayTableID": 1,
+    "PayRangeID": 1,
+    "Level": "Level 6",
+    "Salary2020": 206543.16
+  },
+  {
+    "ID": 2,
+    "PayTableID": 1,
+    "PayRangeID": 1,
+    "Level": "Level 5",
+    "Salary2020": 202493.4
+  },
+  {
+    "ID": 3,
+    "PayTableID": 1,
+    "PayRangeID": 1,
+    "Level": "Level 4",
+    "Salary2020": 198522.72
+  },
+  {
+    "ID": 4,
+    "PayTableID": 1,
+    "PayRangeID": 1,
+    "Level": "Level 3",
+    "Salary2020": 193681.2
+  },
+  {
+    "ID": 5,
+    "PayTableID": 1,
+    "PayRangeID": 1,
+    "Level": "Level 2",
+    "Salary2020": 188956.44
+  },
+  {
+    "ID": 6,
+    "PayTableID": 1,
+    "PayRangeID": 1,
+    "Level": "Level 1",
+    "Salary2020": 184348.08
+  },
+  {
+    "ID": 7,
+    "PayTableID": 1,
+    "PayRangeID": 4,
+    "Level": "Level 6",
+    "Salary2020": 170367.24
+  },
+  {
+    "ID": 8,
+    "PayTableID": 1,
+    "PayRangeID": 4,
+    "Level": "Level 5",
+    "Salary2020": 165485.16
+  },
+  {
+    "ID": 9,
+    "PayTableID": 1,
+    "PayRangeID": 4,
+    "Level": "Level 4",
+    "Salary2020": 160746.12
+  },
+  {
+    "ID": 10,
+    "PayTableID": 1,
+    "PayRangeID": 4,
+    "Level": "Level 3",
+    "Salary2020": 154671.0
+  },
+  {
+    "ID": 11,
+    "PayTableID": 1,
+    "PayRangeID": 4,
+    "Level": "Level 2",
+    "Salary2020": 147437.64
+  },
+  {
+    "ID": 12,
+    "PayTableID": 1,
+    "PayRangeID": 4,
+    "Level": "Level 1",
+    "Salary2020": 140549.52
+  },
+  {
+    "ID": 13,
+    "PayTableID": 1,
+    "PayRangeID": 5,
+    "Level": "Level 6",
+    "Salary2020": 133083.36
+  },
+  {
+    "ID": 14,
+    "PayTableID": 1,
+    "PayRangeID": 5,
+    "Level": "Level 5",
+    "Salary2020": 130529.28
+  },
+  {
+    "ID": 15,
+    "PayTableID": 1,
+    "PayRangeID": 5,
+    "Level": "Level 4",
+    "Salary2020": 128024.16
+  },
+  {
+    "ID": 16,
+    "PayTableID": 1,
+    "PayRangeID": 5,
+    "Level": "Level 3",
+    "Salary2020": 125568.24
+  },
+  {
+    "ID": 17,
+    "PayTableID": 1,
+    "PayRangeID": 5,
+    "Level": "Level 2",
+    "Salary2020": 123160.08
+  },
+  {
+    "ID": 18,
+    "PayTableID": 1,
+    "PayRangeID": 5,
+    "Level": "Level 1",
+    "Salary2020": 120800.04
+  },
+  {
+    "ID": 19,
+    "PayTableID": 1,
+    "PayRangeID": 19,
+    "Level": "Level 4",
+    "Salary2020": 281844.24
+  },
+  {
+    "ID": 20,
+    "PayTableID": 1,
+    "PayRangeID": 19,
+    "Level": "Level 3",
+    "Salary2020": 276317.88
+  },
+  {
+    "ID": 21,
+    "PayTableID": 1,
+    "PayRangeID": 19,
+    "Level": "Level 2",
+    "Salary2020": 270899.52
+  },
+  {
+    "ID": 22,
+    "PayTableID": 1,
+    "PayRangeID": 19,
+    "Level": "Level 1",
+    "Salary2020": 265588.2
+  },
+  {
+    "ID": 23,
+    "PayTableID": 2,
+    "PayRangeID": 6,
+    "Level": "Level 5",
+    "Salary2020": 113793.84
+  },
+  {
+    "ID": 24,
+    "PayTableID": 2,
+    "PayRangeID": 6,
+    "Level": "Level 4",
+    "Salary2020": 112687.56
+  },
+  {
+    "ID": 25,
+    "PayTableID": 2,
+    "PayRangeID": 6,
+    "Level": "Level 3",
+    "Salary2020": 111581.16
+  },
+  {
+    "ID": 26,
+    "PayTableID": 2,
+    "PayRangeID": 6,
+    "Level": "Level 2",
+    "Salary2020": 110474.76
+  },
+  {
+    "ID": 27,
+    "PayTableID": 2,
+    "PayRangeID": 6,
+    "Level": "Level 1",
+    "Salary2020": 109368.36
+  },
+  {
+    "ID": 30,
+    "PayTableID": 2,
+    "PayRangeID": 7,
+    "Level": "Level 7",
+    "Salary2020": 100887.84
+  },
+  {
+    "ID": 31,
+    "PayTableID": 2,
+    "PayRangeID": 7,
+    "Level": "Level 6",
+    "Salary2020": 99369.48
+  },
+  {
+    "ID": 32,
+    "PayTableID": 2,
+    "PayRangeID": 7,
+    "Level": "Level 5",
+    "Salary2020": 97850.76
+  },
+  {
+    "ID": 33,
+    "PayTableID": 2,
+    "PayRangeID": 7,
+    "Level": "Level 4",
+    "Salary2020": 96332.28
+  },
+  {
+    "ID": 34,
+    "PayTableID": 2,
+    "PayRangeID": 7,
+    "Level": "Level 3",
+    "Salary2020": 94813.56
+  },
+  {
+    "ID": 35,
+    "PayTableID": 2,
+    "PayRangeID": 7,
+    "Level": "Level 2",
+    "Salary2020": 93294.84
+  },
+  {
+    "ID": 36,
+    "PayTableID": 2,
+    "PayRangeID": 7,
+    "Level": "Level 1",
+    "Salary2020": 91776.36
+  },
+  {
+    "ID": 39,
+    "PayTableID": 2,
+    "PayRangeID": 8,
+    "Level": "Level 7",
+    "Salary2020": 87716.4
+  },
+  {
+    "ID": 40,
+    "PayTableID": 2,
+    "PayRangeID": 8,
+    "Level": "Level 6",
+    "Salary2020": 85722.84
+  },
+  {
+    "ID": 41,
+    "PayTableID": 2,
+    "PayRangeID": 8,
+    "Level": "Level 5",
+    "Salary2020": 83728.68
+  },
+  {
+    "ID": 42,
+    "PayTableID": 2,
+    "PayRangeID": 8,
+    "Level": "Level 4",
+    "Salary2020": 81735.12
+  },
+  {
+    "ID": 43,
+    "PayTableID": 2,
+    "PayRangeID": 8,
+    "Level": "Level 3",
+    "Salary2020": 79741.44
+  },
+  {
+    "ID": 44,
+    "PayTableID": 2,
+    "PayRangeID": 8,
+    "Level": "Level 2",
+    "Salary2020": 77753.4
+  },
+  {
+    "ID": 45,
+    "PayTableID": 2,
+    "PayRangeID": 8,
+    "Level": "Level 1",
+    "Salary2020": 75753.6
+  },
+  {
+    "ID": 48,
+    "PayTableID": 2,
+    "PayRangeID": 9,
+    "Level": "Level 7",
+    "Salary2020": 64642.32
+  },
+  {
+    "ID": 49,
+    "PayTableID": 2,
+    "PayRangeID": 9,
+    "Level": "Level 6",
+    "Salary2020": 62864.64
+  },
+  {
+    "ID": 50,
+    "PayTableID": 2,
+    "PayRangeID": 9,
+    "Level": "Level 5",
+    "Salary2020": 61086.84
+  },
+  {
+    "ID": 51,
+    "PayTableID": 2,
+    "PayRangeID": 9,
+    "Level": "Level 4",
+    "Salary2020": 59309.04
+  },
+  {
+    "ID": 52,
+    "PayTableID": 2,
+    "PayRangeID": 9,
+    "Level": "Level 3",
+    "Salary2020": 57531
+  },
+  {
+    "ID": 53,
+    "PayTableID": 2,
+    "PayRangeID": 9,
+    "Level": "Level 2",
+    "Salary2020": 55752.84
+  },
+  {
+    "ID": 54,
+    "PayTableID": 2,
+    "PayRangeID": 9,
+    "Level": "Level 1",
+    "Salary2020": 53975.16
+  },
+  {
+    "ID": 57,
+    "PayTableID": 2,
+    "PayRangeID": 10,
+    "Level": "Level 7",
+    "Salary2020": 50957.4
+  },
+  {
+    "ID": 58,
+    "PayTableID": 2,
+    "PayRangeID": 10,
+    "Level": "Level 6",
+    "Salary2020": 49606.32
+  },
+  {
+    "ID": 59,
+    "PayTableID": 2,
+    "PayRangeID": 10,
+    "Level": "Level 5",
+    "Salary2020": 48255.12
+  },
+  {
+    "ID": 60,
+    "PayTableID": 2,
+    "PayRangeID": 10,
+    "Level": "Level 4",
+    "Salary2020": 46903.56
+  },
+  {
+    "ID": 61,
+    "PayTableID": 2,
+    "PayRangeID": 10,
+    "Level": "Level 3",
+    "Salary2020": 45552.24
+  },
+  {
+    "ID": 62,
+    "PayTableID": 2,
+    "PayRangeID": 10,
+    "Level": "Level 2",
+    "Salary2020": 44201.04
+  },
+  {
+    "ID": 63,
+    "PayTableID": 2,
+    "PayRangeID": 10,
+    "Level": "Level 1",
+    "Salary2020": 42849.72
+  },
+  {
+    "ID": 69,
+    "PayTableID": 2,
+    "PayRangeID": 11,
+    "Level": "Level 5",
+    "Salary2020": 36958.44
+  },
+  {
+    "ID": 70,
+    "PayTableID": 2,
+    "PayRangeID": 11,
+    "Level": "Level 4",
+    "Salary2020": 35783.88
+  },
+  {
+    "ID": 71,
+    "PayTableID": 2,
+    "PayRangeID": 11,
+    "Level": "Level 3",
+    "Salary2020": 34610.28
+  },
+  {
+    "ID": 72,
+    "PayTableID": 2,
+    "PayRangeID": 11,
+    "Level": "Level 2",
+    "Salary2020": 33436.44
+  },
+  {
+    "ID": 73,
+    "PayTableID": 2,
+    "PayRangeID": 11,
+    "Level": "Level 1",
+    "Salary2020": 27818.28
+  },
+  {
+    "ID": 74,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 15",
+    "Salary2020": 57274.32
+  },
+  {
+    "ID": 75,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 14",
+    "Salary2020": 56899.68
+  },
+  {
+    "ID": 76,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 13",
+    "Salary2020": 56506.08
+  },
+  {
+    "ID": 77,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 12",
+    "Salary2020": 55742.76
+  },
+  {
+    "ID": 78,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 11",
+    "Salary2020": 54983.64
+  },
+  {
+    "ID": 79,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 10",
+    "Salary2020": 54215.76
+  },
+  {
+    "ID": 80,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 9",
+    "Salary2020": 53451.84
+  },
+  {
+    "ID": 81,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 8",
+    "Salary2020": 52688.28
+  },
+  {
+    "ID": 82,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 7",
+    "Salary2020": 51735.24
+  },
+  {
+    "ID": 83,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 6",
+    "Salary2020": 51147.24
+  },
+  {
+    "ID": 84,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 5",
+    "Salary2020": 50549.88
+  },
+  {
+    "ID": 85,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 4",
+    "Salary2020": 49370.4
+  },
+  {
+    "ID": 86,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 3",
+    "Salary2020": 48782.4
+  },
+  {
+    "ID": 87,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 2",
+    "Salary2020": 48180.96
+  },
+  {
+    "ID": 88,
+    "PayTableID": 3,
+    "PayRangeID": 10,
+    "Level": "Level 1",
+    "Salary2020": 47005.2
+  },
+  {
+    "ID": 89,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 15",
+    "Salary2020": 57274.32
+  },
+  {
+    "ID": 90,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 14",
+    "Salary2020": 56899.68
+  },
+  {
+    "ID": 91,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 13",
+    "Salary2020": 56506.08
+  },
+  {
+    "ID": 92,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 12",
+    "Salary2020": 55742.76
+  },
+  {
+    "ID": 93,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 11",
+    "Salary2020": 54983.64
+  },
+  {
+    "ID": 94,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 10",
+    "Salary2020": 54215.76
+  },
+  {
+    "ID": 95,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 9",
+    "Salary2020": 53451.84
+  },
+  {
+    "ID": 96,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 8",
+    "Salary2020": 52688.28
+  },
+  {
+    "ID": 97,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 7",
+    "Salary2020": 51735.24
+  },
+  {
+    "ID": 98,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 6",
+    "Salary2020": 51147.24
+  },
+  {
+    "ID": 99,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 5",
+    "Salary2020": 50549.88
+  },
+  {
+    "ID": 100,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 4",
+    "Salary2020": 49370.4
+  },
+  {
+    "ID": 101,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 3",
+    "Salary2020": 48782.4
+  },
+  {
+    "ID": 102,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 2",
+    "Salary2020": 48180.96
+  },
+  {
+    "ID": 103,
+    "PayTableID": 3,
+    "PayRangeID": 11,
+    "Level": "Level 1",
+    "Salary2020": 47005.2
+  },
+  {
+    "ID": 104,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 15",
+    "Salary2020": 57274.32
+  },
+  {
+    "ID": 105,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 14",
+    "Salary2020": 56899.68
+  },
+  {
+    "ID": 106,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 13",
+    "Salary2020": 56506.08
+  },
+  {
+    "ID": 107,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 12",
+    "Salary2020": 55742.76
+  },
+  {
+    "ID": 108,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 11",
+    "Salary2020": 54983.64
+  },
+  {
+    "ID": 109,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 10",
+    "Salary2020": 54215.76
+  },
+  {
+    "ID": 110,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 9",
+    "Salary2020": 53451.84
+  },
+  {
+    "ID": 111,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 8",
+    "Salary2020": 52688.28
+  },
+  {
+    "ID": 112,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 7",
+    "Salary2020": 51735.24
+  },
+  {
+    "ID": 113,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 6",
+    "Salary2020": 51147.24
+  },
+  {
+    "ID": 114,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 5",
+    "Salary2020": 50549.88
+  },
+  {
+    "ID": 115,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 4",
+    "Salary2020": 49370.4
+  },
+  {
+    "ID": 116,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 3",
+    "Salary2020": 48782.4
+  },
+  {
+    "ID": 117,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 2",
+    "Salary2020": 48180.96
+  },
+  {
+    "ID": 118,
+    "PayTableID": 3,
+    "PayRangeID": 20,
+    "Level": "Level 1",
+    "Salary2020": 47005.2
+  },
+  {
+    "ID": 121,
+    "PayTableID": 4,
+    "PayRangeID": 7,
+    "Level": "Level 7",
+    "Salary2020": 103052.4
+  },
+  {
+    "ID": 122,
+    "PayTableID": 4,
+    "PayRangeID": 7,
+    "Level": "Level 6",
+    "Salary2020": 101490
+  },
+  {
+    "ID": 123,
+    "PayTableID": 4,
+    "PayRangeID": 7,
+    "Level": "Level 5",
+    "Salary2020": 99927.72
+  },
+  {
+    "ID": 124,
+    "PayTableID": 4,
+    "PayRangeID": 7,
+    "Level": "Level 4",
+    "Salary2020": 98365.44
+  },
+  {
+    "ID": 125,
+    "PayTableID": 4,
+    "PayRangeID": 7,
+    "Level": "Level 3",
+    "Salary2020": 96803.04
+  },
+  {
+    "ID": 126,
+    "PayTableID": 4,
+    "PayRangeID": 7,
+    "Level": "Level 2",
+    "Salary2020": 95240.64
+  },
+  {
+    "ID": 127,
+    "PayTableID": 4,
+    "PayRangeID": 7,
+    "Level": "Level 1",
+    "Salary2020": 93678.48
+  },
+  {
+    "ID": 130,
+    "PayTableID": 4,
+    "PayRangeID": 8,
+    "Level": "Level 7",
+    "Salary2020": 90160.8
+  },
+  {
+    "ID": 131,
+    "PayTableID": 4,
+    "PayRangeID": 8,
+    "Level": "Level 6",
+    "Salary2020": 88107.72
+  },
+  {
+    "ID": 132,
+    "PayTableID": 4,
+    "PayRangeID": 8,
+    "Level": "Level 5",
+    "Salary2020": 86054.4
+  },
+  {
+    "ID": 133,
+    "PayTableID": 4,
+    "PayRangeID": 8,
+    "Level": "Level 4",
+    "Salary2020": 84000.96
+  },
+  {
+    "ID": 134,
+    "PayTableID": 4,
+    "PayRangeID": 8,
+    "Level": "Level 3",
+    "Salary2020": 81947.88
+  },
+  {
+    "ID": 135,
+    "PayTableID": 4,
+    "PayRangeID": 8,
+    "Level": "Level 2",
+    "Salary2020": 79900.56
+  },
+  {
+    "ID": 136,
+    "PayTableID": 4,
+    "PayRangeID": 8,
+    "Level": "Level 1",
+    "Salary2020": 77841.36
+  },
+  {
+    "ID": 139,
+    "PayTableID": 4,
+    "PayRangeID": 9,
+    "Level": "Level 7",
+    "Salary2020": 68729.64
+  },
+  {
+    "ID": 140,
+    "PayTableID": 4,
+    "PayRangeID": 9,
+    "Level": "Level 6",
+    "Salary2020": 66696.48
+  },
+  {
+    "ID": 141,
+    "PayTableID": 4,
+    "PayRangeID": 9,
+    "Level": "Level 5",
+    "Salary2020": 64662.96
+  },
+  {
+    "ID": 142,
+    "PayTableID": 4,
+    "PayRangeID": 9,
+    "Level": "Level 4",
+    "Salary2020": 62629.8
+  },
+  {
+    "ID": 143,
+    "PayTableID": 4,
+    "PayRangeID": 9,
+    "Level": "Level 3",
+    "Salary2020": 60596.16
+  },
+  {
+    "ID": 144,
+    "PayTableID": 4,
+    "PayRangeID": 9,
+    "Level": "Level 2",
+    "Salary2020": 58563.12
+  },
+  {
+    "ID": 145,
+    "PayTableID": 4,
+    "PayRangeID": 9,
+    "Level": "Level 1",
+    "Salary2020": 56529.6
+  },
+  {
+    "ID": 148,
+    "PayTableID": 4,
+    "PayRangeID": 10,
+    "Level": "Level 7",
+    "Salary2020": 53661.12
+  },
+  {
+    "ID": 149,
+    "PayTableID": 4,
+    "PayRangeID": 10,
+    "Level": "Level 6",
+    "Salary2020": 52067.28
+  },
+  {
+    "ID": 150,
+    "PayTableID": 4,
+    "PayRangeID": 10,
+    "Level": "Level 5",
+    "Salary2020": 50472.96
+  },
+  {
+    "ID": 151,
+    "PayTableID": 4,
+    "PayRangeID": 10,
+    "Level": "Level 4",
+    "Salary2020": 48879
+  },
+  {
+    "ID": 152,
+    "PayTableID": 4,
+    "PayRangeID": 10,
+    "Level": "Level 3",
+    "Salary2020": 47284.8
+  },
+  {
+    "ID": 153,
+    "PayTableID": 4,
+    "PayRangeID": 10,
+    "Level": "Level 2",
+    "Salary2020": 45691.08
+  },
+  {
+    "ID": 154,
+    "PayTableID": 4,
+    "PayRangeID": 10,
+    "Level": "Level 1",
+    "Salary2020": 44096.76
+  },
+  {
+    "ID": 160,
+    "PayTableID": 4,
+    "PayRangeID": 11,
+    "Level": "Level 5",
+    "Salary2020": 38266.08
+  },
+  {
+    "ID": 161,
+    "PayTableID": 4,
+    "PayRangeID": 11,
+    "Level": "Level 4",
+    "Salary2020": 37051.44
+  },
+  {
+    "ID": 162,
+    "PayTableID": 4,
+    "PayRangeID": 11,
+    "Level": "Level 3",
+    "Salary2020": 35835.72
+  },
+  {
+    "ID": 163,
+    "PayTableID": 4,
+    "PayRangeID": 11,
+    "Level": "Level 2",
+    "Salary2020": 34620.24
+  },
+  {
+    "ID": 164,
+    "PayTableID": 4,
+    "PayRangeID": 11,
+    "Level": "Level 1",
+    "Salary2020": 28801.92
+  },
+  {
+    "ID": 165,
+    "PayTableID": 5,
+    "PayRangeID": 5,
+    "Level": "Level 5",
+    "Salary2020": 109708.68
+  },
+  {
+    "ID": 166,
+    "PayTableID": 5,
+    "PayRangeID": 5,
+    "Level": "Level 4",
+    "Salary2020": 108579.12
+  },
+  {
+    "ID": 167,
+    "PayTableID": 5,
+    "PayRangeID": 5,
+    "Level": "Level 3",
+    "Salary2020": 107463.84
+  },
+  {
+    "ID": 168,
+    "PayTableID": 5,
+    "PayRangeID": 5,
+    "Level": "Level 2",
+    "Salary2020": 106344.12
+  },
+  {
+    "ID": 169,
+    "PayTableID": 5,
+    "PayRangeID": 5,
+    "Level": "Level 1",
+    "Salary2020": 105223.92
+  },
+  {
+    "ID": 170,
+    "PayTableID": 5,
+    "PayRangeID": 17,
+    "Level": "Level 6",
+    "Salary2020": 91187.76
+  },
+  {
+    "ID": 171,
+    "PayTableID": 5,
+    "PayRangeID": 17,
+    "Level": "Level 5",
+    "Salary2020": 90035.28
+  },
+  {
+    "ID": 172,
+    "PayTableID": 5,
+    "PayRangeID": 17,
+    "Level": "Level 4",
+    "Salary2020": 88878.36
+  },
+  {
+    "ID": 173,
+    "PayTableID": 5,
+    "PayRangeID": 17,
+    "Level": "Level 3",
+    "Salary2020": 87725.64
+  },
+  {
+    "ID": 174,
+    "PayTableID": 5,
+    "PayRangeID": 17,
+    "Level": "Level 2",
+    "Salary2020": 86106.48
+  },
+  {
+    "ID": 175,
+    "PayTableID": 5,
+    "PayRangeID": 17,
+    "Level": "Level 1",
+    "Salary2020": 84486.72
+  },
+  {
+    "ID": 183,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 20",
+    "Salary2020": 78215.52
+  },
+  {
+    "ID": 184,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 19",
+    "Salary2020": 76707
+  },
+  {
+    "ID": 185,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 18",
+    "Salary2020": 75165.72
+  },
+  {
+    "ID": 186,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 17",
+    "Salary2020": 73620
+  },
+  {
+    "ID": 187,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 16",
+    "Salary2020": 72084
+  },
+  {
+    "ID": 188,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 15",
+    "Salary2020": 70542.72
+  },
+  {
+    "ID": 189,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 14",
+    "Salary2020": 69006
+  },
+  {
+    "ID": 190,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 13",
+    "Salary2020": 67465.32
+  },
+  {
+    "ID": 191,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 12",
+    "Salary2020": 65928.36
+  },
+  {
+    "ID": 192,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 11",
+    "Salary2020": 64387.56
+  },
+  {
+    "ID": 193,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 10",
+    "Salary2020": 62850.84
+  },
+  {
+    "ID": 194,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 9",
+    "Salary2020": 61314.6
+  },
+  {
+    "ID": 195,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 8",
+    "Salary2020": 59768.88
+  },
+  {
+    "ID": 196,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 7",
+    "Salary2020": 58237.08
+  },
+  {
+    "ID": 197,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 6",
+    "Salary2020": 56696.16
+  },
+  {
+    "ID": 198,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 5",
+    "Salary2020": 55159.68
+  },
+  {
+    "ID": 199,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 4",
+    "Salary2020": 53613.84
+  },
+  {
+    "ID": 200,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 3",
+    "Salary2020": 52082.28
+  },
+  {
+    "ID": 201,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 2",
+    "Salary2020": 50531.64
+  },
+  {
+    "ID": 202,
+    "PayTableID": 5,
+    "PayRangeID": 18,
+    "Level": "Level 1",
+    "Salary2020": 48999.72
+  },
+  {
+    "ID": 203,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 35",
+    "Salary2020": 87725.52
+  },
+  {
+    "ID": 204,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 34",
+    "Salary2020": 86522.76
+  },
+  {
+    "ID": 205,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 206,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 207,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 208,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 209,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 210,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 211,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 212,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 213,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 214,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 215,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 216,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 217,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 218,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 219,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 220,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 221,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 222,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 223,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 224,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 225,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 226,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 227,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 228,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 229,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 230,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 231,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 232,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 233,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 234,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 235,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 236,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 237,
+    "PayTableID": 6,
+    "PayRangeID": 9,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 203,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 35",
+    "Salary2020": 87725.52
+  },
+  {
+    "ID": 204,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 34",
+    "Salary2020": 86522.76
+  },
+  {
+    "ID": 205,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 206,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 207,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 208,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 209,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 210,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 211,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 212,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 213,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 214,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 215,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 216,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 217,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 218,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 219,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 220,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 221,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 222,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 223,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 224,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 225,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 226,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 227,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 228,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 229,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 230,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 231,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 232,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 233,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 234,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 235,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 236,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 237,
+    "PayTableID": 6,
+    "PayRangeID": 10,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 203,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 35",
+    "Salary2020": 87725.52
+  },
+  {
+    "ID": 204,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 34",
+    "Salary2020": 86522.76
+  },
+  {
+    "ID": 205,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 206,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 207,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 208,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 209,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 210,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 211,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 212,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 213,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 214,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 215,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 216,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 217,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 218,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 219,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 220,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 221,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 222,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 223,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 224,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 225,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 226,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 227,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 228,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 229,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 230,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 231,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 232,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 233,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 234,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 235,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 236,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 237,
+    "PayTableID": 6,
+    "PayRangeID": 11,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 203,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 35",
+    "Salary2020": 87725.52
+  },
+  {
+    "ID": 204,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 34",
+    "Salary2020": 86522.76
+  },
+  {
+    "ID": 205,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 206,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 207,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 208,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 209,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 210,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 211,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 212,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 213,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 214,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 215,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 216,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 217,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 218,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 219,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 220,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 221,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 222,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 223,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 224,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 225,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 226,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 227,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 228,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 229,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 230,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 231,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 232,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 233,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 234,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 235,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 236,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 237,
+    "PayTableID": 6,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 203,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 35",
+    "Salary2020": 87725.52
+  },
+  {
+    "ID": 204,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 34",
+    "Salary2020": 86522.76
+  },
+  {
+    "ID": 205,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 206,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 207,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 208,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 209,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 210,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 211,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 212,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 213,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 214,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 215,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 216,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 217,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 218,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 219,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 220,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 221,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 222,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 223,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 224,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 225,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 226,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 227,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 228,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 229,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 230,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 231,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 232,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 233,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 234,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 235,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 236,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 237,
+    "PayTableID": 6,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 203,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 35",
+    "Salary2020": 87725.52
+  },
+  {
+    "ID": 204,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 34",
+    "Salary2020": 86522.76
+  },
+  {
+    "ID": 205,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 206,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 207,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 208,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 209,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 210,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 211,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 212,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 213,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 214,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 215,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 216,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 217,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 218,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 219,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 220,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 221,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 222,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 223,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 224,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 225,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 226,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 227,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 228,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 229,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 230,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 231,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 232,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 233,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 234,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 235,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 236,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 237,
+    "PayTableID": 6,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 203,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 35",
+    "Salary2020": 87725.52
+  },
+  {
+    "ID": 204,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 34",
+    "Salary2020": 86522.76
+  },
+  {
+    "ID": 205,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 206,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 207,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 208,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 209,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 210,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 211,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 212,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 213,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 214,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 215,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 216,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 217,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 218,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 219,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 220,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 221,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 222,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 223,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 224,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 225,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 226,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 227,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 228,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 229,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 230,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 231,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 232,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 233,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 234,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 235,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 236,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 237,
+    "PayTableID": 6,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 238,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 9",
+    "Salary2020": 75651.72
+  },
+  {
+    "ID": 239,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 8",
+    "Salary2020": 74892.84
+  },
+  {
+    "ID": 240,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 7",
+    "Salary2020": 74133.72
+  },
+  {
+    "ID": 241,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 6",
+    "Salary2020": 73379.52
+  },
+  {
+    "ID": 242,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 5",
+    "Salary2020": 72625.2
+  },
+  {
+    "ID": 243,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 4",
+    "Salary2020": 72074.52
+  },
+  {
+    "ID": 244,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 3",
+    "Salary2020": 71107.2
+  },
+  {
+    "ID": 245,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 2",
+    "Salary2020": 70352.64
+  },
+  {
+    "ID": 246,
+    "PayTableID": 7,
+    "PayRangeID": 9,
+    "Level": "Level 1",
+    "Salary2020": 69598.44
+  },
+  {
+    "ID": 247,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 15",
+    "Salary2020": 70302.24
+  },
+  {
+    "ID": 248,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 14",
+    "Salary2020": 69894.6
+  },
+  {
+    "ID": 249,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 13",
+    "Salary2020": 69492.24
+  },
+  {
+    "ID": 250,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 12",
+    "Salary2020": 68474.16
+  },
+  {
+    "ID": 251,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 11",
+    "Salary2020": 67451.4
+  },
+  {
+    "ID": 252,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 10",
+    "Salary2020": 66428.52
+  },
+  {
+    "ID": 253,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 9",
+    "Salary2020": 65415
+  },
+  {
+    "ID": 254,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 8",
+    "Salary2020": 64387.68
+  },
+  {
+    "ID": 255,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 7",
+    "Salary2020": 63364.92
+  },
+  {
+    "ID": 256,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 6",
+    "Salary2020": 62564.04
+  },
+  {
+    "ID": 257,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 5",
+    "Salary2020": 61800.24
+  },
+  {
+    "ID": 258,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 4",
+    "Salary2020": 61027.8
+  },
+  {
+    "ID": 259,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 3",
+    "Salary2020": 60250.92
+  },
+  {
+    "ID": 260,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 2",
+    "Salary2020": 59478
+  },
+  {
+    "ID": 261,
+    "PayTableID": 7,
+    "PayRangeID": 10,
+    "Level": "Level 1",
+    "Salary2020": 58704.72
+  },
+  {
+    "ID": 262,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 15",
+    "Salary2020": 70302.24
+  },
+  {
+    "ID": 263,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 14",
+    "Salary2020": 69894.6
+  },
+  {
+    "ID": 264,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 13",
+    "Salary2020": 69492.24
+  },
+  {
+    "ID": 265,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 12",
+    "Salary2020": 68474.16
+  },
+  {
+    "ID": 266,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 11",
+    "Salary2020": 67451.4
+  },
+  {
+    "ID": 267,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 10",
+    "Salary2020": 66428.52
+  },
+  {
+    "ID": 268,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 9",
+    "Salary2020": 65415
+  },
+  {
+    "ID": 269,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 8",
+    "Salary2020": 64387.68
+  },
+  {
+    "ID": 270,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 7",
+    "Salary2020": 63364.92
+  },
+  {
+    "ID": 271,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 6",
+    "Salary2020": 62564.04
+  },
+  {
+    "ID": 272,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 5",
+    "Salary2020": 61800.24
+  },
+  {
+    "ID": 273,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 4",
+    "Salary2020": 61027.8
+  },
+  {
+    "ID": 274,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 3",
+    "Salary2020": 60250.92
+  },
+  {
+    "ID": 275,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 2",
+    "Salary2020": 59478
+  },
+  {
+    "ID": 276,
+    "PayTableID": 7,
+    "PayRangeID": 11,
+    "Level": "Level 1",
+    "Salary2020": 58704.72
+  },
+  {
+    "ID": 355,
+    "PayTableID": 11,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 54949.92
+  },
+  {
+    "ID": 356,
+    "PayTableID": 11,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 54370.92
+  },
+  {
+    "ID": 357,
+    "PayTableID": 11,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 53791.8
+  },
+  {
+    "ID": 358,
+    "PayTableID": 11,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 53212.56
+  },
+  {
+    "ID": 359,
+    "PayTableID": 11,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 52633.08
+  },
+  {
+    "ID": 360,
+    "PayTableID": 11,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 51601.08
+  },
+  {
+    "ID": 361,
+    "PayTableID": 11,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 50856.96
+  },
+  {
+    "ID": 362,
+    "PayTableID": 11,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 50112.24
+  },
+  {
+    "ID": 363,
+    "PayTableID": 11,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 49367.52
+  },
+  {
+    "ID": 364,
+    "PayTableID": 11,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 48623.28
+  },
+  {
+    "ID": 365,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 51601.08
+  },
+  {
+    "ID": 366,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 50856.96
+  },
+  {
+    "ID": 367,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 50112.24
+  },
+  {
+    "ID": 368,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 49367.52
+  },
+  {
+    "ID": 369,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 48623.28
+  },
+  {
+    "ID": 370,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 47669.88
+  },
+  {
+    "ID": 371,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 46917.84
+  },
+  {
+    "ID": 372,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 46166.4
+  },
+  {
+    "ID": 373,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 45414.72
+  },
+  {
+    "ID": 374,
+    "PayTableID": 11,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 44662.8
+  },
+  {
+    "ID": 375,
+    "PayTableID": 11,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 43744.44
+  },
+  {
+    "ID": 376,
+    "PayTableID": 11,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 42908.64
+  },
+  {
+    "ID": 377,
+    "PayTableID": 11,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 42073.2
+  },
+  {
+    "ID": 378,
+    "PayTableID": 11,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 41237.64
+  },
+  {
+    "ID": 379,
+    "PayTableID": 11,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 40402.32
+  },
+  {
+    "ID": 380,
+    "PayTableID": 11,
+    "PayRangeID": 23,
+    "Level": "Level 5",
+    "Salary2020": 38441.52
+  },
+  {
+    "ID": 381,
+    "PayTableID": 11,
+    "PayRangeID": 23,
+    "Level": "Level 4",
+    "Salary2020": 37416.36
+  },
+  {
+    "ID": 382,
+    "PayTableID": 11,
+    "PayRangeID": 23,
+    "Level": "Level 3",
+    "Salary2020": 36390.96
+  },
+  {
+    "ID": 383,
+    "PayTableID": 11,
+    "PayRangeID": 23,
+    "Level": "Level 2",
+    "Salary2020": 35365.2
+  },
+  {
+    "ID": 384,
+    "PayTableID": 11,
+    "PayRangeID": 23,
+    "Level": "Level 1",
+    "Salary2020": 34340.16
+  },
+  {
+    "ID": 385,
+    "PayTableID": 11,
+    "PayRangeID": 22,
+    "Level": "Level 3",
+    "Salary2020": 32705.16
+  },
+  {
+    "ID": 386,
+    "PayTableID": 11,
+    "PayRangeID": 22,
+    "Level": "Level 2",
+    "Salary2020": 31074.12
+  },
+  {
+    "ID": 387,
+    "PayTableID": 11,
+    "PayRangeID": 22,
+    "Level": "Level 1",
+    "Salary2020": 29443.08
+  },
+  {
+    "ID": 388,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 9",
+    "Salary2020": 32705.16
+  },
+  {
+    "ID": 389,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 8",
+    "Salary2020": 31074.12
+  },
+  {
+    "ID": 390,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 7",
+    "Salary2020": 29443.08
+  },
+  {
+    "ID": 391,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 6",
+    "Salary2020": 27812.52
+  },
+  {
+    "ID": 392,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 5",
+    "Salary2020": 26181.6
+  },
+  {
+    "ID": 393,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 4",
+    "Salary2020": 24550.8
+  },
+  {
+    "ID": 394,
+    "PayTableID": 12,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 70901.4
+  },
+  {
+    "ID": 395,
+    "PayTableID": 12,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 70247.16
+  },
+  {
+    "ID": 396,
+    "PayTableID": 12,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 69592.56
+  },
+  {
+    "ID": 397,
+    "PayTableID": 12,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 68938.2
+  },
+  {
+    "ID": 398,
+    "PayTableID": 12,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 68283.36
+  },
+  {
+    "ID": 399,
+    "PayTableID": 12,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 66944.76
+  },
+  {
+    "ID": 400,
+    "PayTableID": 12,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 66360.72
+  },
+  {
+    "ID": 401,
+    "PayTableID": 12,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 65776.56
+  },
+  {
+    "ID": 402,
+    "PayTableID": 12,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 65192.04
+  },
+  {
+    "ID": 403,
+    "PayTableID": 12,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 64608.12
+  },
+  {
+    "ID": 404,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 66944.76
+  },
+  {
+    "ID": 405,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 66360.72
+  },
+  {
+    "ID": 406,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 65776.56
+  },
+  {
+    "ID": 407,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 65192.04
+  },
+  {
+    "ID": 408,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 64608.12
+  },
+  {
+    "ID": 409,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 63341.04
+  },
+  {
+    "ID": 410,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 62769.6
+  },
+  {
+    "ID": 411,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 62197.68
+  },
+  {
+    "ID": 412,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 61626.12
+  },
+  {
+    "ID": 413,
+    "PayTableID": 12,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 61054.2
+  },
+  {
+    "ID": 414,
+    "PayTableID": 12,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 59799.12
+  },
+  {
+    "ID": 415,
+    "PayTableID": 12,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 58182.84
+  },
+  {
+    "ID": 416,
+    "PayTableID": 12,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 56567.28
+  },
+  {
+    "ID": 417,
+    "PayTableID": 13,
+    "PayRangeID": 28,
+    "Level": "Level 6",
+    "Salary2020": 66183.24
+  },
+  {
+    "ID": 418,
+    "PayTableID": 13,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 65534.04
+  },
+  {
+    "ID": 419,
+    "PayTableID": 13,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 64884.48
+  },
+  {
+    "ID": 420,
+    "PayTableID": 13,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 64235.28
+  },
+  {
+    "ID": 421,
+    "PayTableID": 13,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 63585.84
+  },
+  {
+    "ID": 422,
+    "PayTableID": 13,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 62936.76
+  },
+  {
+    "ID": 423,
+    "PayTableID": 13,
+    "PayRangeID": 27,
+    "Level": "Level 6",
+    "Salary2020": 61702.44
+  },
+  {
+    "ID": 424,
+    "PayTableID": 13,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 60992.52
+  },
+  {
+    "ID": 425,
+    "PayTableID": 13,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 60282.72
+  },
+  {
+    "ID": 426,
+    "PayTableID": 13,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 59572.8
+  },
+  {
+    "ID": 427,
+    "PayTableID": 13,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 58863
+  },
+  {
+    "ID": 428,
+    "PayTableID": 13,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 58153.08
+  },
+  {
+    "ID": 429,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 12",
+    "Salary2020": 61702.44
+  },
+  {
+    "ID": 430,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 11",
+    "Salary2020": 60992.52
+  },
+  {
+    "ID": 431,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 60282.72
+  },
+  {
+    "ID": 432,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 59572.8
+  },
+  {
+    "ID": 433,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 58863
+  },
+  {
+    "ID": 434,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 58153.08
+  },
+  {
+    "ID": 435,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 57012.84
+  },
+  {
+    "ID": 436,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 56303.04
+  },
+  {
+    "ID": 437,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 55593.36
+  },
+  {
+    "ID": 438,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 54883.56
+  },
+  {
+    "ID": 439,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 54173.52
+  },
+  {
+    "ID": 440,
+    "PayTableID": 13,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 53463.84
+  },
+  {
+    "ID": 441,
+    "PayTableID": 13,
+    "PayRangeID": 25,
+    "Level": "Level 6",
+    "Salary2020": 52415.4
+  },
+  {
+    "ID": 442,
+    "PayTableID": 13,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 51874.44
+  },
+  {
+    "ID": 443,
+    "PayTableID": 13,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 51333.6
+  },
+  {
+    "ID": 444,
+    "PayTableID": 13,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 50792.52
+  },
+  {
+    "ID": 445,
+    "PayTableID": 13,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 50251.44
+  },
+  {
+    "ID": 446,
+    "PayTableID": 13,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 49710.48
+  },
+  {
+    "ID": 447,
+    "PayTableID": 13,
+    "PayRangeID": 23,
+    "Level": "Level 6",
+    "Salary2020": 47343.12
+  },
+  {
+    "ID": 448,
+    "PayTableID": 13,
+    "PayRangeID": 23,
+    "Level": "Level 5",
+    "Salary2020": 46633.56
+  },
+  {
+    "ID": 449,
+    "PayTableID": 13,
+    "PayRangeID": 23,
+    "Level": "Level 4",
+    "Salary2020": 45923.28
+  },
+  {
+    "ID": 450,
+    "PayTableID": 13,
+    "PayRangeID": 23,
+    "Level": "Level 3",
+    "Salary2020": 45213.72
+  },
+  {
+    "ID": 451,
+    "PayTableID": 13,
+    "PayRangeID": 23,
+    "Level": "Level 2",
+    "Salary2020": 44503.92
+  },
+  {
+    "ID": 452,
+    "PayTableID": 13,
+    "PayRangeID": 23,
+    "Level": "Level 1",
+    "Salary2020": 43793.64
+  },
+  {
+    "ID": 453,
+    "PayTableID": 13,
+    "PayRangeID": 22,
+    "Level": "Level 3",
+    "Salary2020": 42770.52
+  },
+  {
+    "ID": 454,
+    "PayTableID": 13,
+    "PayRangeID": 22,
+    "Level": "Level 2",
+    "Salary2020": 42131.52
+  },
+  {
+    "ID": 455,
+    "PayTableID": 13,
+    "PayRangeID": 22,
+    "Level": "Level 1",
+    "Salary2020": 41492.52
+  },
+  {
+    "ID": 456,
+    "PayTableID": 16,
+    "PayRangeID": 4,
+    "Level": "Fixed Level",
+    "Salary2020": 171523.2
+  },
+  {
+    "ID": 457,
+    "PayTableID": 16,
+    "PayRangeID": 5,
+    "Level": "Fixed Level",
+    "Salary2020": 163565.88
+  },
+  {
+    "ID": 458,
+    "PayTableID": 16,
+    "PayRangeID": 6,
+    "Level": "Level 7",
+    "Salary2020": 153517.2
+  },
+  {
+    "ID": 459,
+    "PayTableID": 16,
+    "PayRangeID": 6,
+    "Level": "Level 6",
+    "Salary2020": 152234.4
+  },
+  {
+    "ID": 460,
+    "PayTableID": 16,
+    "PayRangeID": 6,
+    "Level": "Level 5",
+    "Salary2020": 150955.92
+  },
+  {
+    "ID": 461,
+    "PayTableID": 16,
+    "PayRangeID": 6,
+    "Level": "Level 4",
+    "Salary2020": 149664.36
+  },
+  {
+    "ID": 462,
+    "PayTableID": 16,
+    "PayRangeID": 6,
+    "Level": "Level 3",
+    "Salary2020": 148377.12
+  },
+  {
+    "ID": 463,
+    "PayTableID": 16,
+    "PayRangeID": 6,
+    "Level": "Level 2",
+    "Salary2020": 147102.96
+  },
+  {
+    "ID": 464,
+    "PayTableID": 16,
+    "PayRangeID": 6,
+    "Level": "Level 1",
+    "Salary2020": 145811.52
+  },
+  {
+    "ID": 465,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 15",
+    "Salary2020": 143833.32
+  },
+  {
+    "ID": 466,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 14",
+    "Salary2020": 143027.88
+  },
+  {
+    "ID": 467,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 13",
+    "Salary2020": 142211.4
+  },
+  {
+    "ID": 468,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 12",
+    "Salary2020": 141398.28
+  },
+  {
+    "ID": 469,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 11",
+    "Salary2020": 140589.48
+  },
+  {
+    "ID": 470,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 10",
+    "Salary2020": 139776.24
+  },
+  {
+    "ID": 471,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 9",
+    "Salary2020": 138954.24
+  },
+  {
+    "ID": 472,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 8",
+    "Salary2020": 138145.56
+  },
+  {
+    "ID": 473,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 7",
+    "Salary2020": 137332.44
+  },
+  {
+    "ID": 474,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 6",
+    "Salary2020": 136114.92
+  },
+  {
+    "ID": 475,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 5",
+    "Salary2020": 134901.72
+  },
+  {
+    "ID": 476,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 4",
+    "Salary2020": 133675.32
+  },
+  {
+    "ID": 477,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 3",
+    "Salary2020": 132462.36
+  },
+  {
+    "ID": 478,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 2",
+    "Salary2020": 131248.92
+  },
+  {
+    "ID": 479,
+    "PayTableID": 16,
+    "PayRangeID": 7,
+    "Level": "Level 1",
+    "Salary2020": 130022.88
+  },
+  {
+    "ID": 480,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 32",
+    "Salary2020": 148043.4
+  },
+  {
+    "ID": 481,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 31",
+    "Salary2020": 147756.36
+  },
+  {
+    "ID": 482,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 30",
+    "Salary2020": 147473.76
+  },
+  {
+    "ID": 483,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 29",
+    "Salary2020": 147182.4
+  },
+  {
+    "ID": 484,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 28",
+    "Salary2020": 146899.44
+  },
+  {
+    "ID": 485,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 27",
+    "Salary2020": 146329.92
+  },
+  {
+    "ID": 486,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 26",
+    "Salary2020": 145760.16
+  },
+  {
+    "ID": 487,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 25",
+    "Salary2020": 145190.52
+  },
+  {
+    "ID": 488,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 24",
+    "Salary2020": 143808
+  },
+  {
+    "ID": 489,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 23",
+    "Salary2020": 139636.8
+  },
+  {
+    "ID": 490,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 22",
+    "Salary2020": 139585.32
+  },
+  {
+    "ID": 491,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 21",
+    "Salary2020": 138001.92
+  },
+  {
+    "ID": 492,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 20",
+    "Salary2020": 136423.92
+  },
+  {
+    "ID": 493,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 19",
+    "Salary2020": 134840.16
+  },
+  {
+    "ID": 494,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 18",
+    "Salary2020": 133266.96
+  },
+  {
+    "ID": 495,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 17",
+    "Salary2020": 131270.28
+  },
+  {
+    "ID": 496,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 16",
+    "Salary2020": 129284.04
+  },
+  {
+    "ID": 497,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 15",
+    "Salary2020": 127525.8
+  },
+  {
+    "ID": 498,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 14",
+    "Salary2020": 125763.36
+  },
+  {
+    "ID": 499,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 13",
+    "Salary2020": 124009.8
+  },
+  {
+    "ID": 500,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 12",
+    "Salary2020": 122251.8
+  },
+  {
+    "ID": 501,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 11",
+    "Salary2020": 118387.56
+  },
+  {
+    "ID": 502,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 10",
+    "Salary2020": 114531.84
+  },
+  {
+    "ID": 503,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 9",
+    "Salary2020": 110676.72
+  },
+  {
+    "ID": 504,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 8",
+    "Salary2020": 107253.12
+  },
+  {
+    "ID": 505,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 7",
+    "Salary2020": 103820.76
+  },
+  {
+    "ID": 506,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 6",
+    "Salary2020": 100383.72
+  },
+  {
+    "ID": 507,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 5",
+    "Salary2020": 97163.28
+  },
+  {
+    "ID": 508,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 4",
+    "Salary2020": 95911.8
+  },
+  {
+    "ID": 509,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 3",
+    "Salary2020": 94634.16
+  },
+  {
+    "ID": 510,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 2",
+    "Salary2020": 90400.32
+  },
+  {
+    "ID": 511,
+    "PayTableID": 18,
+    "PayRangeID": 7,
+    "Level": "Level 1",
+    "Salary2020": 86209.56
+  },
+  {
+    "ID": 512,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 32",
+    "Salary2020": 148043.4
+  },
+  {
+    "ID": 513,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 31",
+    "Salary2020": 147756.36
+  },
+  {
+    "ID": 514,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 30",
+    "Salary2020": 147473.76
+  },
+  {
+    "ID": 515,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 29",
+    "Salary2020": 147182.4
+  },
+  {
+    "ID": 516,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 28",
+    "Salary2020": 146899.44
+  },
+  {
+    "ID": 517,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 27",
+    "Salary2020": 146329.92
+  },
+  {
+    "ID": 518,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 26",
+    "Salary2020": 145760.16
+  },
+  {
+    "ID": 519,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 25",
+    "Salary2020": 145190.52
+  },
+  {
+    "ID": 520,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 24",
+    "Salary2020": 143808
+  },
+  {
+    "ID": 521,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 23",
+    "Salary2020": 142429.56
+  },
+  {
+    "ID": 522,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 22",
+    "Salary2020": 139585.32
+  },
+  {
+    "ID": 523,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 21",
+    "Salary2020": 138001.92
+  },
+  {
+    "ID": 524,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 20",
+    "Salary2020": 136423.92
+  },
+  {
+    "ID": 525,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 19",
+    "Salary2020": 134840.16
+  },
+  {
+    "ID": 526,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 18",
+    "Salary2020": 133266.96
+  },
+  {
+    "ID": 527,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 17",
+    "Salary2020": 131270.28
+  },
+  {
+    "ID": 528,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 16",
+    "Salary2020": 129284.04
+  },
+  {
+    "ID": 529,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 15",
+    "Salary2020": 127525.8
+  },
+  {
+    "ID": 530,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 14",
+    "Salary2020": 125763.36
+  },
+  {
+    "ID": 531,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 13",
+    "Salary2020": 124009.8
+  },
+  {
+    "ID": 532,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 12",
+    "Salary2020": 122251.8
+  },
+  {
+    "ID": 533,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 11",
+    "Salary2020": 118387.56
+  },
+  {
+    "ID": 534,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 10",
+    "Salary2020": 114531.84
+  },
+  {
+    "ID": 535,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 9",
+    "Salary2020": 110676.72
+  },
+  {
+    "ID": 536,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 8",
+    "Salary2020": 107253.12
+  },
+  {
+    "ID": 537,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 7",
+    "Salary2020": 103820.76
+  },
+  {
+    "ID": 538,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 6",
+    "Salary2020": 100383.72
+  },
+  {
+    "ID": 539,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 5",
+    "Salary2020": 97163.28
+  },
+  {
+    "ID": 540,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 4",
+    "Salary2020": 95911.8
+  },
+  {
+    "ID": 541,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 3",
+    "Salary2020": 94634.16
+  },
+  {
+    "ID": 542,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 2",
+    "Salary2020": 90400.32
+  },
+  {
+    "ID": 543,
+    "PayTableID": 18,
+    "PayRangeID": 8,
+    "Level": "Level 1",
+    "Salary2020": 86209.56
+  },
+  {
+    "ID": 544,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 32",
+    "Salary2020": 148043.4
+  },
+  {
+    "ID": 545,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 31",
+    "Salary2020": 147756.36
+  },
+  {
+    "ID": 546,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 30",
+    "Salary2020": 147473.76
+  },
+  {
+    "ID": 547,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 29",
+    "Salary2020": 147182.4
+  },
+  {
+    "ID": 548,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 28",
+    "Salary2020": 146899.44
+  },
+  {
+    "ID": 549,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 27",
+    "Salary2020": 146329.92
+  },
+  {
+    "ID": 550,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 26",
+    "Salary2020": 145760.16
+  },
+  {
+    "ID": 551,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 25",
+    "Salary2020": 145190.52
+  },
+  {
+    "ID": 552,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 24",
+    "Salary2020": 143808
+  },
+  {
+    "ID": 553,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 23",
+    "Salary2020": 142429.56
+  },
+  {
+    "ID": 554,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 22",
+    "Salary2020": 139585.32
+  },
+  {
+    "ID": 555,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 21",
+    "Salary2020": 138001.92
+  },
+  {
+    "ID": 556,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 20",
+    "Salary2020": 136423.92
+  },
+  {
+    "ID": 557,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 19",
+    "Salary2020": 134840.16
+  },
+  {
+    "ID": 558,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 18",
+    "Salary2020": 133266.96
+  },
+  {
+    "ID": 559,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 17",
+    "Salary2020": 131270.28
+  },
+  {
+    "ID": 560,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 16",
+    "Salary2020": 129284.04
+  },
+  {
+    "ID": 561,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 15",
+    "Salary2020": 127525.8
+  },
+  {
+    "ID": 562,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 14",
+    "Salary2020": 125763.36
+  },
+  {
+    "ID": 563,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 13",
+    "Salary2020": 124009.8
+  },
+  {
+    "ID": 564,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 12",
+    "Salary2020": 122251.8
+  },
+  {
+    "ID": 565,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 11",
+    "Salary2020": 118387.56
+  },
+  {
+    "ID": 566,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 10",
+    "Salary2020": 114531.84
+  },
+  {
+    "ID": 567,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 9",
+    "Salary2020": 110676.72
+  },
+  {
+    "ID": 568,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 8",
+    "Salary2020": 107253.12
+  },
+  {
+    "ID": 569,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 7",
+    "Salary2020": 103820.76
+  },
+  {
+    "ID": 570,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 6",
+    "Salary2020": 100383.72
+  },
+  {
+    "ID": 571,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 5",
+    "Salary2020": 97163.28
+  },
+  {
+    "ID": 572,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 4",
+    "Salary2020": 95911.8
+  },
+  {
+    "ID": 573,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 3",
+    "Salary2020": 94634.16
+  },
+  {
+    "ID": 574,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 2",
+    "Salary2020": 90400.32
+  },
+  {
+    "ID": 575,
+    "PayTableID": 18,
+    "PayRangeID": 9,
+    "Level": "Level 1",
+    "Salary2020": 86209.56
+  },
+  {
+    "ID": 576,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 35",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 577,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 34",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 578,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 33",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 579,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 32",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 580,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 31",
+    "Salary2020": 137693.76
+  },
+  {
+    "ID": 581,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 30",
+    "Salary2020": 137363.16
+  },
+  {
+    "ID": 582,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 29",
+    "Salary2020": 136824.72
+  },
+  {
+    "ID": 583,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 28",
+    "Salary2020": 136392.6
+  },
+  {
+    "ID": 584,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 27",
+    "Salary2020": 135955.56
+  },
+  {
+    "ID": 585,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 26",
+    "Salary2020": 135620.28
+  },
+  {
+    "ID": 586,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 25",
+    "Salary2020": 135086.28
+  },
+  {
+    "ID": 587,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 24",
+    "Salary2020": 134645.16
+  },
+  {
+    "ID": 588,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 23",
+    "Salary2020": 134212.68
+  },
+  {
+    "ID": 589,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 22",
+    "Salary2020": 133771.56
+  },
+  {
+    "ID": 590,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 21",
+    "Salary2020": 133338.84
+  },
+  {
+    "ID": 591,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 20",
+    "Salary2020": 132897.84
+  },
+  {
+    "ID": 592,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 19",
+    "Salary2020": 130866.12
+  },
+  {
+    "ID": 593,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 18",
+    "Salary2020": 130356
+  },
+  {
+    "ID": 594,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 17",
+    "Salary2020": 129749.4
+  },
+  {
+    "ID": 595,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 16",
+    "Salary2020": 129117.48
+  },
+  {
+    "ID": 596,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 15",
+    "Salary2020": 128491.68
+  },
+  {
+    "ID": 597,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 14",
+    "Salary2020": 127860
+  },
+  {
+    "ID": 598,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 13",
+    "Salary2020": 127233.72
+  },
+  {
+    "ID": 599,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 12",
+    "Salary2020": 126674.88
+  },
+  {
+    "ID": 600,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 11",
+    "Salary2020": 123795.84
+  },
+  {
+    "ID": 601,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 10",
+    "Salary2020": 123241.2
+  },
+  {
+    "ID": 602,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 9",
+    "Salary2020": 122601.72
+  },
+  {
+    "ID": 603,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 8",
+    "Salary2020": 121967.04
+  },
+  {
+    "ID": 604,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 7",
+    "Salary2020": 121327.68
+  },
+  {
+    "ID": 605,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 6",
+    "Salary2020": 118359.24
+  },
+  {
+    "ID": 606,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 5",
+    "Salary2020": 116740.92
+  },
+  {
+    "ID": 607,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 4",
+    "Salary2020": 115113.36
+  },
+  {
+    "ID": 608,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 3",
+    "Salary2020": 113495.16
+  },
+  {
+    "ID": 609,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 2",
+    "Salary2020": 111867.48
+  },
+  {
+    "ID": 610,
+    "PayTableID": 21,
+    "PayRangeID": 7,
+    "Level": "Level 1",
+    "Salary2020": 108787.08
+  },
+  {
+    "ID": 611,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 35",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 612,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 34",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 613,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 33",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 614,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 32",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 615,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 31",
+    "Salary2020": 137693.76
+  },
+  {
+    "ID": 616,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 30",
+    "Salary2020": 137363.16
+  },
+  {
+    "ID": 617,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 29",
+    "Salary2020": 136824.72
+  },
+  {
+    "ID": 618,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 28",
+    "Salary2020": 136392.6
+  },
+  {
+    "ID": 619,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 27",
+    "Salary2020": 135955.56
+  },
+  {
+    "ID": 620,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 26",
+    "Salary2020": 135620.28
+  },
+  {
+    "ID": 621,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 25",
+    "Salary2020": 135086.28
+  },
+  {
+    "ID": 622,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 24",
+    "Salary2020": 134645.16
+  },
+  {
+    "ID": 623,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 23",
+    "Salary2020": 134212.68
+  },
+  {
+    "ID": 624,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 22",
+    "Salary2020": 133771.56
+  },
+  {
+    "ID": 625,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 21",
+    "Salary2020": 133338.84
+  },
+  {
+    "ID": 626,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 20",
+    "Salary2020": 132897.84
+  },
+  {
+    "ID": 627,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 19",
+    "Salary2020": 130866.12
+  },
+  {
+    "ID": 628,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 18",
+    "Salary2020": 130356
+  },
+  {
+    "ID": 629,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 17",
+    "Salary2020": 129749.4
+  },
+  {
+    "ID": 630,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 16",
+    "Salary2020": 129117.48
+  },
+  {
+    "ID": 631,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 15",
+    "Salary2020": 128491.68
+  },
+  {
+    "ID": 632,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 14",
+    "Salary2020": 127860
+  },
+  {
+    "ID": 633,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 13",
+    "Salary2020": 127233.72
+  },
+  {
+    "ID": 634,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 12",
+    "Salary2020": 126674.88
+  },
+  {
+    "ID": 635,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 11",
+    "Salary2020": 123795.84
+  },
+  {
+    "ID": 636,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 10",
+    "Salary2020": 123241.2
+  },
+  {
+    "ID": 637,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 9",
+    "Salary2020": 122601.72
+  },
+  {
+    "ID": 638,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 8",
+    "Salary2020": 121967.04
+  },
+  {
+    "ID": 639,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 7",
+    "Salary2020": 121327.68
+  },
+  {
+    "ID": 640,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 6",
+    "Salary2020": 118359.24
+  },
+  {
+    "ID": 641,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 5",
+    "Salary2020": 116740.92
+  },
+  {
+    "ID": 642,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 4",
+    "Salary2020": 115113.36
+  },
+  {
+    "ID": 643,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 3",
+    "Salary2020": 113495.16
+  },
+  {
+    "ID": 644,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 2",
+    "Salary2020": 111867.48
+  },
+  {
+    "ID": 645,
+    "PayTableID": 21,
+    "PayRangeID": 8,
+    "Level": "Level 1",
+    "Salary2020": 108787.08
+  },
+  {
+    "ID": 646,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 35",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 647,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 34",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 648,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 33",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 649,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 32",
+    "Salary2020": 138126.36
+  },
+  {
+    "ID": 650,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 31",
+    "Salary2020": 137693.76
+  },
+  {
+    "ID": 651,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 30",
+    "Salary2020": 137363.16
+  },
+  {
+    "ID": 652,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 29",
+    "Salary2020": 136824.72
+  },
+  {
+    "ID": 653,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 28",
+    "Salary2020": 136392.6
+  },
+  {
+    "ID": 654,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 27",
+    "Salary2020": 135955.56
+  },
+  {
+    "ID": 655,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 26",
+    "Salary2020": 135620.28
+  },
+  {
+    "ID": 656,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 25",
+    "Salary2020": 135086.28
+  },
+  {
+    "ID": 657,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 24",
+    "Salary2020": 134645.16
+  },
+  {
+    "ID": 658,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 23",
+    "Salary2020": 134212.68
+  },
+  {
+    "ID": 659,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 22",
+    "Salary2020": 133771.56
+  },
+  {
+    "ID": 660,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 21",
+    "Salary2020": 133338.84
+  },
+  {
+    "ID": 661,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 20",
+    "Salary2020": 132897.84
+  },
+  {
+    "ID": 662,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 19",
+    "Salary2020": 130866.12
+  },
+  {
+    "ID": 663,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 18",
+    "Salary2020": 130356
+  },
+  {
+    "ID": 664,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 17",
+    "Salary2020": 129749.4
+  },
+  {
+    "ID": 665,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 16",
+    "Salary2020": 129117.48
+  },
+  {
+    "ID": 666,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 15",
+    "Salary2020": 128491.68
+  },
+  {
+    "ID": 667,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 14",
+    "Salary2020": 127860
+  },
+  {
+    "ID": 668,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 13",
+    "Salary2020": 127233.72
+  },
+  {
+    "ID": 669,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 12",
+    "Salary2020": 126674.88
+  },
+  {
+    "ID": 670,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 11",
+    "Salary2020": 123795.84
+  },
+  {
+    "ID": 671,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 10",
+    "Salary2020": 123241.2
+  },
+  {
+    "ID": 672,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 9",
+    "Salary2020": 122601.72
+  },
+  {
+    "ID": 673,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 8",
+    "Salary2020": 121967.04
+  },
+  {
+    "ID": 674,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 7",
+    "Salary2020": 121327.68
+  },
+  {
+    "ID": 675,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 6",
+    "Salary2020": 118359.24
+  },
+  {
+    "ID": 676,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 5",
+    "Salary2020": 116740.92
+  },
+  {
+    "ID": 677,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 4",
+    "Salary2020": 115113.36
+  },
+  {
+    "ID": 678,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 3",
+    "Salary2020": 113495.16
+  },
+  {
+    "ID": 679,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 2",
+    "Salary2020": 111867.48
+  },
+  {
+    "ID": 680,
+    "PayTableID": 21,
+    "PayRangeID": 9,
+    "Level": "Level 1",
+    "Salary2020": 108787.08
+  },
+  {
+    "ID": 681,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 19",
+    "Salary2020": 99484.44
+  },
+  {
+    "ID": 682,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 18",
+    "Salary2020": 98478.84
+  },
+  {
+    "ID": 683,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 17",
+    "Salary2020": 97472.88
+  },
+  {
+    "ID": 684,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 16",
+    "Salary2020": 96462.72
+  },
+  {
+    "ID": 685,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 15",
+    "Salary2020": 95563.44
+  },
+  {
+    "ID": 686,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 14",
+    "Salary2020": 94678.08
+  },
+  {
+    "ID": 687,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 13",
+    "Salary2020": 93783.24
+  },
+  {
+    "ID": 688,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 12",
+    "Salary2020": 92888.88
+  },
+  {
+    "ID": 689,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 11",
+    "Salary2020": 91999.2
+  },
+  {
+    "ID": 690,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 10",
+    "Salary2020": 91108.68
+  },
+  {
+    "ID": 691,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 9",
+    "Salary2020": 90036.12
+  },
+  {
+    "ID": 692,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 8",
+    "Salary2020": 88229.52
+  },
+  {
+    "ID": 693,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 7",
+    "Salary2020": 86418.12
+  },
+  {
+    "ID": 694,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 6",
+    "Salary2020": 85132.08
+  },
+  {
+    "ID": 695,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 5",
+    "Salary2020": 83859.48
+  },
+  {
+    "ID": 696,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 4",
+    "Salary2020": 82582.2
+  },
+  {
+    "ID": 697,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 3",
+    "Salary2020": 81305.16
+  },
+  {
+    "ID": 698,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 2",
+    "Salary2020": 77028.24
+  },
+  {
+    "ID": 699,
+    "PayTableID": 20,
+    "PayRangeID": 7,
+    "Level": "Level 1",
+    "Salary2020": 72778.32
+  },
+  {
+    "ID": 700,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 19",
+    "Salary2020": 99484.44
+  },
+  {
+    "ID": 701,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 18",
+    "Salary2020": 98478.84
+  },
+  {
+    "ID": 702,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 17",
+    "Salary2020": 97472.88
+  },
+  {
+    "ID": 703,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 16",
+    "Salary2020": 96462.72
+  },
+  {
+    "ID": 704,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 15",
+    "Salary2020": 95563.44
+  },
+  {
+    "ID": 705,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 14",
+    "Salary2020": 94678.08
+  },
+  {
+    "ID": 706,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 13",
+    "Salary2020": 93783.24
+  },
+  {
+    "ID": 707,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 12",
+    "Salary2020": 92888.88
+  },
+  {
+    "ID": 708,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 11",
+    "Salary2020": 91999.2
+  },
+  {
+    "ID": 709,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 10",
+    "Salary2020": 91108.68
+  },
+  {
+    "ID": 710,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 9",
+    "Salary2020": 90036.12
+  },
+  {
+    "ID": 711,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 8",
+    "Salary2020": 88229.52
+  },
+  {
+    "ID": 712,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 7",
+    "Salary2020": 86418.12
+  },
+  {
+    "ID": 713,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 6",
+    "Salary2020": 85132.08
+  },
+  {
+    "ID": 714,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 5",
+    "Salary2020": 83859.48
+  },
+  {
+    "ID": 715,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 4",
+    "Salary2020": 82582.2
+  },
+  {
+    "ID": 716,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 3",
+    "Salary2020": 81305.16
+  },
+  {
+    "ID": 717,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 2",
+    "Salary2020": 77028.24
+  },
+  {
+    "ID": 718,
+    "PayTableID": 20,
+    "PayRangeID": 8,
+    "Level": "Level 1",
+    "Salary2020": 72778.32
+  },
+  {
+    "ID": 719,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 19",
+    "Salary2020": 99484.44
+  },
+  {
+    "ID": 720,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 18",
+    "Salary2020": 98478.84
+  },
+  {
+    "ID": 721,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 17",
+    "Salary2020": 97472.88
+  },
+  {
+    "ID": 722,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 16",
+    "Salary2020": 96462.72
+  },
+  {
+    "ID": 723,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 15",
+    "Salary2020": 95563.44
+  },
+  {
+    "ID": 724,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 14",
+    "Salary2020": 94678.08
+  },
+  {
+    "ID": 725,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 13",
+    "Salary2020": 93783.24
+  },
+  {
+    "ID": 726,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 12",
+    "Salary2020": 92888.88
+  },
+  {
+    "ID": 727,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 11",
+    "Salary2020": 91999.2
+  },
+  {
+    "ID": 728,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 10",
+    "Salary2020": 91108.68
+  },
+  {
+    "ID": 729,
+    "PayTableID": 21,
+    "PayRangeID": 10,
+    "Level": "Level 5",
+    "Salary2020": 82327.8
+  },
+  {
+    "ID": 730,
+    "PayTableID": 21,
+    "PayRangeID": 10,
+    "Level": "Level 4",
+    "Salary2020": 80657.64
+  },
+  {
+    "ID": 731,
+    "PayTableID": 21,
+    "PayRangeID": 10,
+    "Level": "Level 3",
+    "Salary2020": 78992.28
+  },
+  {
+    "ID": 732,
+    "PayTableID": 21,
+    "PayRangeID": 10,
+    "Level": "Level 2",
+    "Salary2020": 77317.92
+  },
+  {
+    "ID": 733,
+    "PayTableID": 21,
+    "PayRangeID": 10,
+    "Level": "Level 1",
+    "Salary2020": 75648.24
+  },
+  {
+    "ID": 734,
+    "PayTableID": 22,
+    "PayRangeID": 10,
+    "Level": "Level 5",
+    "Salary2020": 67384.56
+  },
+  {
+    "ID": 735,
+    "PayTableID": 22,
+    "PayRangeID": 10,
+    "Level": "Level 4",
+    "Salary2020": 65662.8
+  },
+  {
+    "ID": 736,
+    "PayTableID": 22,
+    "PayRangeID": 10,
+    "Level": "Level 3",
+    "Salary2020": 63931.2
+  },
+  {
+    "ID": 737,
+    "PayTableID": 22,
+    "PayRangeID": 10,
+    "Level": "Level 2",
+    "Salary2020": 62213.52
+  },
+  {
+    "ID": 738,
+    "PayTableID": 22,
+    "PayRangeID": 10,
+    "Level": "Level 1",
+    "Salary2020": 60505.08
+  },
+  {
+    "ID": 739,
+    "PayTableID": 24,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 52836.6
+  },
+  {
+    "ID": 740,
+    "PayTableID": 24,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 52301.4
+  },
+  {
+    "ID": 741,
+    "PayTableID": 24,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 51717.36
+  },
+  {
+    "ID": 742,
+    "PayTableID": 24,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 51132.84
+  },
+  {
+    "ID": 743,
+    "PayTableID": 24,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 50839.2
+  },
+  {
+    "ID": 744,
+    "PayTableID": 24,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 47292.96
+  },
+  {
+    "ID": 745,
+    "PayTableID": 24,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 46500.12
+  },
+  {
+    "ID": 746,
+    "PayTableID": 24,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 45724.8
+  },
+  {
+    "ID": 747,
+    "PayTableID": 24,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 44835.84
+  },
+  {
+    "ID": 748,
+    "PayTableID": 24,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 43895.64
+  },
+  {
+    "ID": 749,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 47292.96
+  },
+  {
+    "ID": 750,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 46500.12
+  },
+  {
+    "ID": 751,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 45724.8
+  },
+  {
+    "ID": 752,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 44835.84
+  },
+  {
+    "ID": 753,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 43895.64
+  },
+  {
+    "ID": 754,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 42953.16
+  },
+  {
+    "ID": 755,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 42288.12
+  },
+  {
+    "ID": 756,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 41652.36
+  },
+  {
+    "ID": 757,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 40994.16
+  },
+  {
+    "ID": 758,
+    "PayTableID": 24,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 40358.4
+  },
+  {
+    "ID": 759,
+    "PayTableID": 24,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 39555.84
+  },
+  {
+    "ID": 760,
+    "PayTableID": 24,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 38609.04
+  },
+  {
+    "ID": 761,
+    "PayTableID": 24,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 37671.6
+  },
+  {
+    "ID": 762,
+    "PayTableID": 24,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 36746.64
+  },
+  {
+    "ID": 763,
+    "PayTableID": 24,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 35853.72
+  },
+  {
+    "ID": 764,
+    "PayTableID": 24,
+    "PayRangeID": 23,
+    "Level": "Level 5",
+    "Salary2020": 34138.8
+  },
+  {
+    "ID": 765,
+    "PayTableID": 24,
+    "PayRangeID": 23,
+    "Level": "Level 4",
+    "Salary2020": 33659.52
+  },
+  {
+    "ID": 766,
+    "PayTableID": 24,
+    "PayRangeID": 23,
+    "Level": "Level 3",
+    "Salary2020": 33206.28
+  },
+  {
+    "ID": 767,
+    "PayTableID": 24,
+    "PayRangeID": 23,
+    "Level": "Level 2",
+    "Salary2020": 32721.48
+  },
+  {
+    "ID": 768,
+    "PayTableID": 24,
+    "PayRangeID": 23,
+    "Level": "Level 1",
+    "Salary2020": 31869.6
+  },
+  {
+    "ID": 769,
+    "PayTableID": 24,
+    "PayRangeID": 22,
+    "Level": "Level 3",
+    "Salary2020": 29921.28
+  },
+  {
+    "ID": 770,
+    "PayTableID": 24,
+    "PayRangeID": 22,
+    "Level": "Level 2",
+    "Salary2020": 28592.4
+  },
+  {
+    "ID": 771,
+    "PayTableID": 24,
+    "PayRangeID": 22,
+    "Level": "Level 1",
+    "Salary2020": 27326.52
+  },
+  {
+    "ID": 772,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 9",
+    "Salary2020": 29921.28
+  },
+  {
+    "ID": 773,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 8",
+    "Salary2020": 28592.4
+  },
+  {
+    "ID": 774,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 7",
+    "Salary2020": 27326.52
+  },
+  {
+    "ID": 775,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 6",
+    "Salary2020": 26137.32
+  },
+  {
+    "ID": 776,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 5",
+    "Salary2020": 24980.64
+  },
+  {
+    "ID": 777,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 4",
+    "Salary2020": 23825.28
+  },
+  {
+    "ID": 778,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 3",
+    "Salary2020": 22640.52
+  },
+  {
+    "ID": 779,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 2",
+    "Salary2020": 21230.28
+  },
+  {
+    "ID": 780,
+    "PayTableID": 24,
+    "PayRangeID": 21,
+    "Level": "Level 1",
+    "Salary2020": 20400
+  },
+  {
+    "ID": 781,
+    "PayTableID": 25,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 52836.6
+  },
+  {
+    "ID": 782,
+    "PayTableID": 25,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 52301.4
+  },
+  {
+    "ID": 783,
+    "PayTableID": 25,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 51717.36
+  },
+  {
+    "ID": 784,
+    "PayTableID": 25,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 51132.84
+  },
+  {
+    "ID": 785,
+    "PayTableID": 25,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 50839.2
+  },
+  {
+    "ID": 786,
+    "PayTableID": 25,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 48792.48
+  },
+  {
+    "ID": 787,
+    "PayTableID": 25,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 48165.6
+  },
+  {
+    "ID": 788,
+    "PayTableID": 25,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 47520.12
+  },
+  {
+    "ID": 789,
+    "PayTableID": 25,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 46870.32
+  },
+  {
+    "ID": 790,
+    "PayTableID": 25,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 45930.12
+  },
+  {
+    "ID": 791,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 48792.48
+  },
+  {
+    "ID": 792,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 48165.6
+  },
+  {
+    "ID": 793,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 47520.12
+  },
+  {
+    "ID": 794,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 46870.32
+  },
+  {
+    "ID": 795,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 45930.12
+  },
+  {
+    "ID": 796,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 44748.6
+  },
+  {
+    "ID": 797,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 44084.52
+  },
+  {
+    "ID": 798,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 43449
+  },
+  {
+    "ID": 799,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 42789.36
+  },
+  {
+    "ID": 800,
+    "PayTableID": 25,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 42056.4
+  },
+  {
+    "ID": 801,
+    "PayTableID": 25,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 41220.96
+  },
+  {
+    "ID": 802,
+    "PayTableID": 25,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 40200.12
+  },
+  {
+    "ID": 803,
+    "PayTableID": 25,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 39070.68
+  },
+  {
+    "ID": 804,
+    "PayTableID": 25,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 38043.12
+  },
+  {
+    "ID": 805,
+    "PayTableID": 25,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 37061.28
+  },
+  {
+    "ID": 806,
+    "PayTableID": 25,
+    "PayRangeID": 23,
+    "Level": "Level 5",
+    "Salary2020": 35285.4
+  },
+  {
+    "ID": 807,
+    "PayTableID": 25,
+    "PayRangeID": 23,
+    "Level": "Level 4",
+    "Salary2020": 34807.08
+  },
+  {
+    "ID": 808,
+    "PayTableID": 25,
+    "PayRangeID": 23,
+    "Level": "Level 3",
+    "Salary2020": 34337.52
+  },
+  {
+    "ID": 809,
+    "PayTableID": 25,
+    "PayRangeID": 23,
+    "Level": "Level 2",
+    "Salary2020": 33668.28
+  },
+  {
+    "ID": 810,
+    "PayTableID": 25,
+    "PayRangeID": 23,
+    "Level": "Level 1",
+    "Salary2020": 32796.72
+  },
+  {
+    "ID": 811,
+    "PayTableID": 25,
+    "PayRangeID": 22,
+    "Level": "Level 3",
+    "Salary2020": 30748.2
+  },
+  {
+    "ID": 812,
+    "PayTableID": 25,
+    "PayRangeID": 22,
+    "Level": "Level 2",
+    "Salary2020": 29342.4
+  },
+  {
+    "ID": 813,
+    "PayTableID": 25,
+    "PayRangeID": 22,
+    "Level": "Level 1",
+    "Salary2020": 27960.96
+  },
+  {
+    "ID": 814,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 9",
+    "Salary2020": 30748.2
+  },
+  {
+    "ID": 815,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 8",
+    "Salary2020": 29342.4
+  },
+  {
+    "ID": 816,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 7",
+    "Salary2020": 27960.96
+  },
+  {
+    "ID": 817,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 6",
+    "Salary2020": 26655.96
+  },
+  {
+    "ID": 818,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 5",
+    "Salary2020": 25339.8
+  },
+  {
+    "ID": 819,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 4",
+    "Salary2020": 24091.56
+  },
+  {
+    "ID": 820,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 3",
+    "Salary2020": 22907.76
+  },
+  {
+    "ID": 821,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 2",
+    "Salary2020": 21230.28
+  },
+  {
+    "ID": 822,
+    "PayTableID": 25,
+    "PayRangeID": 21,
+    "Level": "Level 1",
+    "Salary2020": 20400
+  },
+  {
+    "ID": 823,
+    "PayTableID": 26,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 52836.6
+  },
+  {
+    "ID": 824,
+    "PayTableID": 26,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 52301.4
+  },
+  {
+    "ID": 825,
+    "PayTableID": 26,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 51717.36
+  },
+  {
+    "ID": 826,
+    "PayTableID": 26,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 51132.84
+  },
+  {
+    "ID": 827,
+    "PayTableID": 26,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 50839.2
+  },
+  {
+    "ID": 828,
+    "PayTableID": 26,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 49840.92
+  },
+  {
+    "ID": 829,
+    "PayTableID": 26,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 49545.12
+  },
+  {
+    "ID": 830,
+    "PayTableID": 26,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 49230.6
+  },
+  {
+    "ID": 831,
+    "PayTableID": 26,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 48879.96
+  },
+  {
+    "ID": 832,
+    "PayTableID": 26,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 48190.8
+  },
+  {
+    "ID": 833,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 49840.92
+  },
+  {
+    "ID": 834,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 49545.12
+  },
+  {
+    "ID": 835,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 49230.6
+  },
+  {
+    "ID": 836,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 48879.96
+  },
+  {
+    "ID": 837,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 48190.8
+  },
+  {
+    "ID": 838,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 46866.12
+  },
+  {
+    "ID": 839,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 45943.32
+  },
+  {
+    "ID": 840,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 45141.72
+  },
+  {
+    "ID": 841,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 44361
+  },
+  {
+    "ID": 842,
+    "PayTableID": 26,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 43581.24
+  },
+  {
+    "ID": 843,
+    "PayTableID": 26,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 42666.12
+  },
+  {
+    "ID": 844,
+    "PayTableID": 26,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 41601
+  },
+  {
+    "ID": 845,
+    "PayTableID": 26,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 40587.6
+  },
+  {
+    "ID": 846,
+    "PayTableID": 26,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 39614.52
+  },
+  {
+    "ID": 847,
+    "PayTableID": 26,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 38627.52
+  },
+  {
+    "ID": 848,
+    "PayTableID": 26,
+    "PayRangeID": 23,
+    "Level": "Level 5",
+    "Salary2020": 36775.08
+  },
+  {
+    "ID": 849,
+    "PayTableID": 26,
+    "PayRangeID": 23,
+    "Level": "Level 4",
+    "Salary2020": 36119.88
+  },
+  {
+    "ID": 850,
+    "PayTableID": 26,
+    "PayRangeID": 23,
+    "Level": "Level 3",
+    "Salary2020": 35375.16
+  },
+  {
+    "ID": 851,
+    "PayTableID": 26,
+    "PayRangeID": 23,
+    "Level": "Level 2",
+    "Salary2020": 34596.96
+  },
+  {
+    "ID": 852,
+    "PayTableID": 26,
+    "PayRangeID": 23,
+    "Level": "Level 1",
+    "Salary2020": 33699
+  },
+  {
+    "ID": 853,
+    "PayTableID": 26,
+    "PayRangeID": 22,
+    "Level": "Level 3",
+    "Salary2020": 31396.68
+  },
+  {
+    "ID": 854,
+    "PayTableID": 26,
+    "PayRangeID": 22,
+    "Level": "Level 2",
+    "Salary2020": 29915.64
+  },
+  {
+    "ID": 855,
+    "PayTableID": 26,
+    "PayRangeID": 22,
+    "Level": "Level 1",
+    "Salary2020": 28506.96
+  },
+  {
+    "ID": 856,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 9",
+    "Salary2020": 31396.68
+  },
+  {
+    "ID": 857,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 8",
+    "Salary2020": 29915.64
+  },
+  {
+    "ID": 858,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 7",
+    "Salary2020": 28506.96
+  },
+  {
+    "ID": 859,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 6",
+    "Salary2020": 27201.96
+  },
+  {
+    "ID": 860,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 5",
+    "Salary2020": 25790.04
+  },
+  {
+    "ID": 861,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 4",
+    "Salary2020": 24450.72
+  },
+  {
+    "ID": 862,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 3",
+    "Salary2020": 23185.44
+  },
+  {
+    "ID": 863,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 2",
+    "Salary2020": 21230.28
+  },
+  {
+    "ID": 864,
+    "PayTableID": 26,
+    "PayRangeID": 21,
+    "Level": "Level 1",
+    "Salary2020": 20400
+  },
+  {
+    "ID": 865,
+    "PayTableID": 27,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 54261.72
+  },
+  {
+    "ID": 866,
+    "PayTableID": 27,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 53779.2
+  },
+  {
+    "ID": 867,
+    "PayTableID": 27,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 53266.92
+  },
+  {
+    "ID": 868,
+    "PayTableID": 27,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 52761.24
+  },
+  {
+    "ID": 869,
+    "PayTableID": 27,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 52313.52
+  },
+  {
+    "ID": 870,
+    "PayTableID": 27,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 51274.92
+  },
+  {
+    "ID": 871,
+    "PayTableID": 27,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 50979.24
+  },
+  {
+    "ID": 872,
+    "PayTableID": 27,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 50664.24
+  },
+  {
+    "ID": 873,
+    "PayTableID": 27,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 50289
+  },
+  {
+    "ID": 874,
+    "PayTableID": 27,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 49762.32
+  },
+  {
+    "ID": 875,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 10",
+    "Salary2020": 51274.92
+  },
+  {
+    "ID": 876,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 9",
+    "Salary2020": 50979.24
+  },
+  {
+    "ID": 877,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 8",
+    "Salary2020": 50664.24
+  },
+  {
+    "ID": 878,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 7",
+    "Salary2020": 50289
+  },
+  {
+    "ID": 879,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 6",
+    "Salary2020": 49762.32
+  },
+  {
+    "ID": 880,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 48407.28
+  },
+  {
+    "ID": 881,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 47658.96
+  },
+  {
+    "ID": 882,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 46857.12
+  },
+  {
+    "ID": 883,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 46077.6
+  },
+  {
+    "ID": 884,
+    "PayTableID": 27,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 45340.44
+  },
+  {
+    "ID": 885,
+    "PayTableID": 27,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 44365.2
+  },
+  {
+    "ID": 886,
+    "PayTableID": 27,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 43227
+  },
+  {
+    "ID": 887,
+    "PayTableID": 27,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 42131.64
+  },
+  {
+    "ID": 888,
+    "PayTableID": 27,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 41048.76
+  },
+  {
+    "ID": 889,
+    "PayTableID": 27,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 39896.4
+  },
+  {
+    "ID": 890,
+    "PayTableID": 27,
+    "PayRangeID": 23,
+    "Level": "Level 5",
+    "Salary2020": 37875
+  },
+  {
+    "ID": 891,
+    "PayTableID": 27,
+    "PayRangeID": 23,
+    "Level": "Level 4",
+    "Salary2020": 37132.32
+  },
+  {
+    "ID": 892,
+    "PayTableID": 27,
+    "PayRangeID": 23,
+    "Level": "Level 3",
+    "Salary2020": 36262.92
+  },
+  {
+    "ID": 893,
+    "PayTableID": 27,
+    "PayRangeID": 23,
+    "Level": "Level 2",
+    "Salary2020": 35432.16
+  },
+  {
+    "ID": 894,
+    "PayTableID": 27,
+    "PayRangeID": 23,
+    "Level": "Level 1",
+    "Salary2020": 34535.52
+  },
+  {
+    "ID": 895,
+    "PayTableID": 27,
+    "PayRangeID": 22,
+    "Level": "Level 3",
+    "Salary2020": 32009.4
+  },
+  {
+    "ID": 896,
+    "PayTableID": 27,
+    "PayRangeID": 22,
+    "Level": "Level 2",
+    "Salary2020": 30445.2
+  },
+  {
+    "ID": 897,
+    "PayTableID": 27,
+    "PayRangeID": 22,
+    "Level": "Level 1",
+    "Salary2020": 29003.64
+  },
+  {
+    "ID": 898,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 9",
+    "Salary2020": 32009.4
+  },
+  {
+    "ID": 899,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 8",
+    "Salary2020": 30445.2
+  },
+  {
+    "ID": 900,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 7",
+    "Salary2020": 29003.64
+  },
+  {
+    "ID": 901,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 6",
+    "Salary2020": 27549.36
+  },
+  {
+    "ID": 902,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 5",
+    "Salary2020": 26124.12
+  },
+  {
+    "ID": 903,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 4",
+    "Salary2020": 24785.04
+  },
+  {
+    "ID": 904,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 3",
+    "Salary2020": 23185.44
+  },
+  {
+    "ID": 905,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 2",
+    "Salary2020": 21230.28
+  },
+  {
+    "ID": 906,
+    "PayTableID": 27,
+    "PayRangeID": 21,
+    "Level": "Level 1",
+    "Salary2020": 20400.0
+  },
+  {
+    "ID": 907,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 3",
+    "Salary2020": 22920
+  },
+  {
+    "ID": 908,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 2",
+    "Salary2020": 21289.2
+  },
+  {
+    "ID": 909,
+    "PayTableID": 11,
+    "PayRangeID": 21,
+    "Level": "Level 1",
+    "Salary2020": 20400
+  },
+  {
+    "ID": 910,
+    "PayTableID": 12,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 54951.84
+  },
+  {
+    "ID": 911,
+    "PayTableID": 12,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 53336.4
+  },
+  {
+    "ID": 912,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 10",
+    "Salary2020": 42770.52
+  },
+  {
+    "ID": 913,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 9",
+    "Salary2020": 42131.52
+  },
+  {
+    "ID": 914,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 8",
+    "Salary2020": 41492.52
+  },
+  {
+    "ID": 915,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 7",
+    "Salary2020": 40853.52
+  },
+  {
+    "ID": 916,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 6",
+    "Salary2020": 40214.04
+  },
+  {
+    "ID": 917,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 5",
+    "Salary2020": 39575.04
+  },
+  {
+    "ID": 918,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 4",
+    "Salary2020": 38936.04
+  },
+  {
+    "ID": 919,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 3",
+    "Salary2020": 38296.8
+  },
+  {
+    "ID": 920,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 2",
+    "Salary2020": 37657.44
+  },
+  {
+    "ID": 921,
+    "PayTableID": 13,
+    "PayRangeID": 21,
+    "Level": "Level 1",
+    "Salary2020": 37018.56
+  },
+  {
+    "ID": 922,
+    "PayTableID": 22,
+    "PayRangeID": 11,
+    "Level": "Level 1",
+    "Salary2020": 45801
+  },
+  {
+    "ID": 923,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 9",
+    "Salary2020": 90036.12
+  },
+  {
+    "ID": 924,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 8",
+    "Salary2020": 88229.52
+  },
+  {
+    "ID": 925,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 7",
+    "Salary2020": 86418.12
+  },
+  {
+    "ID": 926,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 6",
+    "Salary2020": 85132.08
+  },
+  {
+    "ID": 927,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 5",
+    "Salary2020": 83859.48
+  },
+  {
+    "ID": 928,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 4",
+    "Salary2020": 82582.2
+  },
+  {
+    "ID": 929,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 3",
+    "Salary2020": 81305.16
+  },
+  {
+    "ID": 930,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 2",
+    "Salary2020": 77028.24
+  },
+  {
+    "ID": 931,
+    "PayTableID": 20,
+    "PayRangeID": 9,
+    "Level": "Level 1",
+    "Salary2020": 72778.32
+  },
+  {
+    "ID": 932,
+    "PayTableID": 28,
+    "PayRangeID": 11,
+    "Level": "Level 3",
+    "Salary2020": 21281.04
+  },
+  {
+    "ID": 933,
+    "PayTableID": 28,
+    "PayRangeID": 11,
+    "Level": "Level 2",
+    "Salary2020": 19202.28
+  },
+  {
+    "ID": 934,
+    "PayTableID": 28,
+    "PayRangeID": 11,
+    "Level": "Level 1",
+    "Salary2020": 17133.48
+  },
+  {
+    "ID": 935,
+    "PayTableID": 5,
+    "PayRangeID": 29,
+    "Level": "Level 5",
+    "Salary2020": 96958.08
+  },
+  {
+    "ID": 936,
+    "PayTableID": 5,
+    "PayRangeID": 29,
+    "Level": "Level 4",
+    "Salary2020": 95801.52
+  },
+  {
+    "ID": 937,
+    "PayTableID": 5,
+    "PayRangeID": 29,
+    "Level": "Level 3",
+    "Salary2020": 94644.72
+  },
+  {
+    "ID": 938,
+    "PayTableID": 5,
+    "PayRangeID": 29,
+    "Level": "Level 2",
+    "Salary2020": 93492.24
+  },
+  {
+    "ID": 939,
+    "PayTableID": 5,
+    "PayRangeID": 29,
+    "Level": "Level 1",
+    "Salary2020": 92340.12
+  },
+  {
+    "ID": 940,
+    "PayTableID": 24,
+    "PayRangeID": 30,
+    "Level": "New Entrant Rate of Pay",
+    "Salary2020": 15985.2
+  },
+  {
+    "ID": 941,
+    "PayTableID": 25,
+    "PayRangeID": 30,
+    "Level": "New Entrant Rate of Pay",
+    "Salary2020": 15985.2
+  },
+  {
+    "ID": 942,
+    "PayTableID": 26,
+    "PayRangeID": 30,
+    "Level": "New Entrant Rate of Pay",
+    "Salary2020": 15985.2
+  },
+  {
+    "ID": 943,
+    "PayTableID": 27,
+    "PayRangeID": 30,
+    "Level": "New Entrant Rate of Pay",
+    "Salary2020": 15985.2
+  },
+  {
+    "ID": 944,
+    "PayTableID": 29,
+    "PayRangeID": 8,
+    "Level": "Vets OF4-1",
+    "Salary2020": 78678.48
+  },
+  {
+    "ID": 945,
+    "PayTableID": 29,
+    "PayRangeID": 8,
+    "Level": "Vets OF4-2",
+    "Salary2020": 79937.28
+  },
+  {
+    "ID": 946,
+    "PayTableID": 29,
+    "PayRangeID": 8,
+    "Level": "Vets OF4-3",
+    "Salary2020": 81209.64
+  },
+  {
+    "ID": 947,
+    "PayTableID": 29,
+    "PayRangeID": 8,
+    "Level": "Vets OF4-4",
+    "Salary2020": 82473.36
+  },
+  {
+    "ID": 948,
+    "PayTableID": 29,
+    "PayRangeID": 8,
+    "Level": "Vets OF4-5",
+    "Salary2020": 83741.64
+  },
+  {
+    "ID": 949,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-1",
+    "Salary2020": 42849.72
+  },
+  {
+    "ID": 950,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-2",
+    "Salary2020": 45871.56
+  },
+  {
+    "ID": 951,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-3",
+    "Salary2020": 47389.32
+  },
+  {
+    "ID": 952,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-4",
+    "Salary2020": 48903
+  },
+  {
+    "ID": 953,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-5",
+    "Salary2020": 50420.4
+  },
+  {
+    "ID": 954,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-6",
+    "Salary2020": 51934.2
+  },
+  {
+    "ID": 955,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-7",
+    "Salary2020": 53451.84
+  },
+  {
+    "ID": 956,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-8",
+    "Salary2020": 54969.84
+  },
+  {
+    "ID": 957,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-9",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 958,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-10",
+    "Salary2020": 57996.36
+  },
+  {
+    "ID": 959,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-11",
+    "Salary2020": 59519.04
+  },
+  {
+    "ID": 960,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-12",
+    "Salary2020": 61036.8
+  },
+  {
+    "ID": 961,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-13",
+    "Salary2020": 62388.36
+  },
+  {
+    "ID": 962,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-14",
+    "Salary2020": 63758.04
+  },
+  {
+    "ID": 963,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-15",
+    "Salary2020": 65322.72
+  },
+  {
+    "ID": 964,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-16",
+    "Salary2020": 66909.6
+  },
+  {
+    "ID": 965,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-17",
+    "Salary2020": 68483.16
+  },
+  {
+    "ID": 966,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-18",
+    "Salary2020": 70065.6
+  },
+  {
+    "ID": 967,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-19",
+    "Salary2020": 71639.16
+  },
+  {
+    "ID": 968,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-20",
+    "Salary2020": 73217.52
+  },
+  {
+    "ID": 969,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-21",
+    "Salary2020": 74800.44
+  },
+  {
+    "ID": 970,
+    "PayTableID": 29,
+    "PayRangeID": 9,
+    "Level": "Vets OF2/3-22",
+    "Salary2020": 76378.56
+  },
+  {
+    "ID": 949,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-1",
+    "Salary2020": 42849.72
+  },
+  {
+    "ID": 950,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-2",
+    "Salary2020": 45871.56
+  },
+  {
+    "ID": 951,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-3",
+    "Salary2020": 47389.32
+  },
+  {
+    "ID": 952,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-4",
+    "Salary2020": 48903
+  },
+  {
+    "ID": 953,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-5",
+    "Salary2020": 50420.4
+  },
+  {
+    "ID": 954,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-6",
+    "Salary2020": 51934.2
+  },
+  {
+    "ID": 955,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-7",
+    "Salary2020": 52403.76
+  },
+  {
+    "ID": 956,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-8",
+    "Salary2020": 53451.84
+  },
+  {
+    "ID": 957,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-9",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 958,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-10",
+    "Salary2020": 57996.36
+  },
+  {
+    "ID": 959,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-11",
+    "Salary2020": 59519.04
+  },
+  {
+    "ID": 960,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-12",
+    "Salary2020": 61036.8
+  },
+  {
+    "ID": 961,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-13",
+    "Salary2020": 62388.36
+  },
+  {
+    "ID": 962,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-14",
+    "Salary2020": 63758.04
+  },
+  {
+    "ID": 963,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-15",
+    "Salary2020": 65322.72
+  },
+  {
+    "ID": 964,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-16",
+    "Salary2020": 66909.6
+  },
+  {
+    "ID": 965,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-17",
+    "Salary2020": 68483.16
+  },
+  {
+    "ID": 966,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-18",
+    "Salary2020": 70065.6
+  },
+  {
+    "ID": 967,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-19",
+    "Salary2020": 71639.16
+  },
+  {
+    "ID": 968,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-20",
+    "Salary2020": 73217.52
+  },
+  {
+    "ID": 969,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-21",
+    "Salary2020": 74800.44
+  },
+  {
+    "ID": 970,
+    "PayTableID": 29,
+    "PayRangeID": 10,
+    "Level": "Vets OF2/3-22",
+    "Salary2020": 76378.56
+  },
+  {
+    "ID": 971,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 33",
+    "Salary2020": 85314.72
+  },
+  {
+    "ID": 972,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 32",
+    "Salary2020": 84111.72
+  },
+  {
+    "ID": 973,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 31",
+    "Salary2020": 82912.8
+  },
+  {
+    "ID": 974,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 30",
+    "Salary2020": 81700.56
+  },
+  {
+    "ID": 975,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 29",
+    "Salary2020": 80506.32
+  },
+  {
+    "ID": 976,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 28",
+    "Salary2020": 79298.64
+  },
+  {
+    "ID": 977,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 27",
+    "Salary2020": 78086.16
+  },
+  {
+    "ID": 978,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 26",
+    "Salary2020": 76892.16
+  },
+  {
+    "ID": 979,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 25",
+    "Salary2020": 75679.8
+  },
+  {
+    "ID": 980,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 24",
+    "Salary2020": 74481
+  },
+  {
+    "ID": 981,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 23",
+    "Salary2020": 73365.36
+  },
+  {
+    "ID": 982,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 22",
+    "Salary2020": 71968.44
+  },
+  {
+    "ID": 983,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 21",
+    "Salary2020": 70630.44
+  },
+  {
+    "ID": 984,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 20",
+    "Salary2020": 69283.68
+  },
+  {
+    "ID": 985,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 19",
+    "Salary2020": 67950.84
+  },
+  {
+    "ID": 986,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 18",
+    "Salary2020": 66613.44
+  },
+  {
+    "ID": 987,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 17",
+    "Salary2020": 65276.16
+  },
+  {
+    "ID": 988,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 16",
+    "Salary2020": 63939.12
+  },
+  {
+    "ID": 989,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 15",
+    "Salary2020": 62601.36
+  },
+  {
+    "ID": 990,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 14",
+    "Salary2020": 61264.08
+  },
+  {
+    "ID": 991,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 13",
+    "Salary2020": 59917.2
+  },
+  {
+    "ID": 992,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 12",
+    "Salary2020": 58584.48
+  },
+  {
+    "ID": 993,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 11",
+    "Salary2020": 57246.72
+  },
+  {
+    "ID": 994,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 10",
+    "Salary2020": 56478.6
+  },
+  {
+    "ID": 995,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 9",
+    "Salary2020": 55599.36
+  },
+  {
+    "ID": 996,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 8",
+    "Salary2020": 54711
+  },
+  {
+    "ID": 997,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 7",
+    "Salary2020": 53831.04
+  },
+  {
+    "ID": 998,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 6",
+    "Salary2020": 52947.48
+  },
+  {
+    "ID": 999,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 5",
+    "Salary2020": 52058.76
+  },
+  {
+    "ID": 1000,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 4",
+    "Salary2020": 51175.08
+  },
+  {
+    "ID": 1001,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 3",
+    "Salary2020": 50291.04
+  },
+  {
+    "ID": 1002,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 2",
+    "Salary2020": 49402.44
+  },
+  {
+    "ID": 1003,
+    "PayTableID": 6,
+    "PayRangeID": 8,
+    "Level": "Level 1",
+    "Salary2020": 48513.84
+  },
+  {
+    "ID": 1004,
+    "PayTableID": 30,
+    "PayRangeID": 28,
+    "Level": "Level 5",
+    "Salary2020": 45723.6
+  },
+  {
+    "ID": 1005,
+    "PayTableID": 30,
+    "PayRangeID": 28,
+    "Level": "Level 4",
+    "Salary2020": 44961.24
+  },
+  {
+    "ID": 1006,
+    "PayTableID": 30,
+    "PayRangeID": 28,
+    "Level": "Level 3",
+    "Salary2020": 44197.56
+  },
+  {
+    "ID": 1007,
+    "PayTableID": 30,
+    "PayRangeID": 28,
+    "Level": "Level 2",
+    "Salary2020": 43434.36
+  },
+  {
+    "ID": 1008,
+    "PayTableID": 30,
+    "PayRangeID": 28,
+    "Level": "Level 1",
+    "Salary2020": 42670.08
+  },
+  {
+    "ID": 1009,
+    "PayTableID": 30,
+    "PayRangeID": 27,
+    "Level": "Level 5",
+    "Salary2020": 41832.72
+  },
+  {
+    "ID": 1010,
+    "PayTableID": 30,
+    "PayRangeID": 27,
+    "Level": "Level 4",
+    "Salary2020": 41136.84
+  },
+  {
+    "ID": 1011,
+    "PayTableID": 30,
+    "PayRangeID": 27,
+    "Level": "Level 3",
+    "Salary2020": 40450.8
+  },
+  {
+    "ID": 1012,
+    "PayTableID": 30,
+    "PayRangeID": 27,
+    "Level": "Level 2",
+    "Salary2020": 39663.84
+  },
+  {
+    "ID": 1013,
+    "PayTableID": 30,
+    "PayRangeID": 27,
+    "Level": "Level 1",
+    "Salary2020": 38831.4
+  },
+  {
+    "ID": 1014,
+    "PayTableID": 30,
+    "PayRangeID": 26,
+    "Level": "Level 5",
+    "Salary2020": 38007.36
+  },
+  {
+    "ID": 1015,
+    "PayTableID": 30,
+    "PayRangeID": 26,
+    "Level": "Level 4",
+    "Salary2020": 37419.96
+  },
+  {
+    "ID": 1016,
+    "PayTableID": 30,
+    "PayRangeID": 26,
+    "Level": "Level 3",
+    "Salary2020": 36857.88
+  },
+  {
+    "ID": 1017,
+    "PayTableID": 30,
+    "PayRangeID": 26,
+    "Level": "Level 2",
+    "Salary2020": 36274.44
+  },
+  {
+    "ID": 1018,
+    "PayTableID": 30,
+    "PayRangeID": 26,
+    "Level": "Level 1",
+    "Salary2020": 35711.04
+  },
+  {
+    "ID": 1019,
+    "PayTableID": 30,
+    "PayRangeID": 25,
+    "Level": "Level 5",
+    "Salary2020": 35001.36
+  },
+  {
+    "ID": 1020,
+    "PayTableID": 30,
+    "PayRangeID": 25,
+    "Level": "Level 4",
+    "Salary2020": 34163.04
+  },
+  {
+    "ID": 1021,
+    "PayTableID": 30,
+    "PayRangeID": 25,
+    "Level": "Level 3",
+    "Salary2020": 33334.8
+  },
+  {
+    "ID": 1022,
+    "PayTableID": 30,
+    "PayRangeID": 25,
+    "Level": "Level 2",
+    "Salary2020": 32516.2
+  },
+  {
+    "ID": 1023,
+    "PayTableID": 30,
+    "PayRangeID": 25,
+    "Level": "Level 1",
+    "Salary2020": 31717.56
+  },
+  {
+    "ID": 1024,
+    "PayTableID": 30,
+    "PayRangeID": 23,
+    "Level": "Level 5",
+    "Salary2020": 30204.84
+  },
+  {
+    "ID": 1025,
+    "PayTableID": 30,
+    "PayRangeID": 23,
+    "Level": "Level 4",
+    "Salary2020": 29774.52
+  },
+  {
+    "ID": 1026,
+    "PayTableID": 30,
+    "PayRangeID": 23,
+    "Level": "Level 3",
+    "Salary2020": 29374.08
+  },
+  {
+    "ID": 1027,
+    "PayTableID": 30,
+    "PayRangeID": 23,
+    "Level": "Level 2",
+    "Salary2020": 28951.2
+  },
+  {
+    "ID": 1028,
+    "PayTableID": 30,
+    "PayRangeID": 23,
+    "Level": "Level 1",
+    "Salary2020": 28193.64
+  },
+  {
+    "ID": 1029,
+    "PayTableID": 30,
+    "PayRangeID": 22,
+    "Level": "Level 3",
+    "Salary2020": 26822.04
+  },
+  {
+    "ID": 1030,
+    "PayTableID": 30,
+    "PayRangeID": 22,
+    "Level": "Level 2",
+    "Salary2020": 25586.88
+  },
+  {
+    "ID": 1031,
+    "PayTableID": 30,
+    "PayRangeID": 22,
+    "Level": "Level 1",
+    "Salary2020": 24253.44
+  },
+  {
+    "ID": 1032,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 8",
+    "Salary2020": 25586.88
+  },
+  {
+    "ID": 1033,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 7",
+    "Salary2020": 24253.44
+  },
+  {
+    "ID": 1034,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 6",
+    "Salary2020": 23087.64
+  },
+  {
+    "ID": 1035,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 5",
+    "Salary2020": 22040.88
+  },
+  {
+    "ID": 1036,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 4",
+    "Salary2020": 21081.96
+  },
+  {
+    "ID": 1037,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 3",
+    "Salary2020": 20029.08
+  },
+  {
+    "ID": 1038,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 2",
+    "Salary2020": 18840.96
+  },
+  {
+    "ID": 1039,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "Level 1",
+    "Salary2020": 18151.44
+  },
+  {
+    "ID": 1040,
+    "PayTableID": 30,
+    "PayRangeID": 21,
+    "Level": "New Entrant Rate of Pay",
+    "Salary2020": 14658.84
+  }
+]

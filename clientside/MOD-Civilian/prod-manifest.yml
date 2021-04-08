@@ -1,0 +1,6 @@
+---
+  applications:
+  - name: mod-benefits-calculator-production-civilian
+    memory: 128M
+    buildpacks:
+    - staticfile_buildpack

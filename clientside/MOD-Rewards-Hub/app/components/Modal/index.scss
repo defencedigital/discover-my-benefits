@@ -1,0 +1,164 @@
+.modal-dialog.MOD-modal {
+  max-width: 1110px;
+  width: 100%;
+  margin-top: 120px;
+  padding: 0;
+  @include media-breakpoint-down(md) {
+    max-width: 100%;
+    margin: 12px 0 0 0;
+  }
+}
+
+.modal-inner {
+  width: 100%;
+  overflow: hidden;
+}
+
+.modal-inner .masthead-intro {
+  padding-left: 8px;
+  padding-right: 8px;
+  overflow: hidden;
+}
+
+.modal-header h1 {
+  margin-bottom: 40px;
+}
+
+.modal-header h2 {
+  line-height: 4.1rem;
+  @include media-breakpoint-down(sm) {
+    line-height: 1.4;
+  }
+}
+
+.modal-header {
+  padding: 0;
+}
+
+.modal-body {
+  border-radius: 0;
+  padding: 0;
+  background-color: $gray-lighter;
+}
+
+
+.modal-header .share {
+  background: $white;
+  color: $white;
+  border-radius: 3px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 34px;
+  right: 50px;
+  font-size: 3rem;
+
+  @include media-breakpoint-down(md) {
+    width: 40px;
+    height: 40px;
+    top: 14px;
+    right: 70px;
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    width: 20px;
+    height: 20px;
+    background: url('/' + $service + '/share.svg') 100% no-repeat;
+    @include media-breakpoint-down(md) {
+      top: 10px;
+      left: 9px;
+    }
+  }
+}
+
+.modal-content {
+  background-color: $gray-lighter;
+  color: $brand-primary;
+  border: none;
+  border-radius: 0;
+
+}
+
+
+.modal-body .modal-inner{
+  overflow: visible;
+}
+
+.modal__content{
+  max-width:1024px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.modal-body .modal-inner > .row{
+  margin: 0;
+}
+
+
+
+.modal-body .wysiwyg {
+  width: auto;
+  max-width:1024px;
+  margin: 0 auto;
+  @include media-breakpoint-down(md) {
+    padding: 40px 0;
+  }
+}
+
+.modal-body .wysiwyg p,
+.modal-body .wysiwyg ul {
+  margin-bottom: 40px;
+  @include media-breakpoint-down(md) {
+    margin-bottom: 20px;
+  }
+}
+
+.modal-body .wysiwyg ul,
+.modal-body .wysiwyg ol {
+  padding-left: 45px;
+}
+
+.modal-body .wysiwyg ol li,
+.modal-body .wysiwyg ul li {
+  margin-bottom: 20px;
+}
+
+.modal-body .wysiwyg h3,
+.modal-body .wysiwyg h2 {
+  margin-bottom: 40px;
+}
+
+.modal-separator {
+  margin: 0 0 60px;
+}
+
+.modal-bottom {
+  padding: 20px 0 0;
+  max-width: 1024px;
+  margin: 0 auto;
+  @include media-breakpoint-down(md) {
+    padding: 0;
+  }
+}
+.modal-bottom.modal-light-gray {
+  background: $gray-light;
+  color: $gray-dark;
+}
+
+.modal-bottom .card-text{
+  color: $gray-dark;
+}
+
+.modal-bottom h2 {
+  margin-bottom: 30px;
+}
+
+.modal-backdrop.show {
+  opacity: 0.75 !important;
+}
+
+

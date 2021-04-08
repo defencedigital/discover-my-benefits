@@ -1,0 +1,1 @@
+export const isOF5AndAbove = rangeFound => rangeFound && (rangeFound.PayRangeCode === 'OF5' || rangeFound.PayRangeCode === 'OF6' || rangeFound.PayRangeCode === 'OF7' || rangeFound.PayRangeCode === 'OF8' || rangeFound.PayRangeCode === 'OF9');

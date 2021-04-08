@@ -1,0 +1,54 @@
+.masthead-questions-panel {
+  max-width: 500px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
+  text-align: left;
+  @include media-breakpoint-down(sm) {
+    position: relative;
+    width: 100%;
+    max-width: none;
+    top: auto;
+    bottom: auto;
+  }
+}
+
+.masthead-questions-panel__inr {
+  height: 100%;
+  @include media-breakpoint-down(sm) {
+    height: auto;
+  }
+}
+
+.masthead-questions-panel .h1 {
+  padding-bottom: 15px;
+}
+
+.masthead-questions-panel h4 {
+  padding-bottom: 30px;
+}
+
+.masthead-questions-panel__step-1 {
+  padding: 40px 20px;
+  position: relative;
+  top: 0;
+  color: white;
+  height: 100%;
+  background: $brand-primary;
+}
+
+.masthead-questions-panel__step-2 {
+  position: relative;
+  top: 0;
+}
+
+.masthead-questions-panel__step-1.hidden,
+.masthead-questions-panel__step-2.hidden {
+  display: none;
+}
+
+.masthead-questions-panel__btn {
+  float: right;
+  min-width: 115px;
+}

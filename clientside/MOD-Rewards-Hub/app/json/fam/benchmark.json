@@ -1,0 +1,38 @@
+[
+  {
+    "band": "A",
+    "Wittering": 325.0,
+    "Aldershot": 497.5,
+    "Faslane": 325.0
+  },
+  {
+    "band": "B",
+    "Wittering": 650.0,
+    "Aldershot": 995.0,
+    "Faslane": 650.0
+  },
+  {
+    "band": "C",
+    "Wittering": 687.5,
+    "Aldershot": 1097.5,
+    "Faslane": 700.0
+  },
+  {
+    "band": "D",
+    "Wittering": 725.0,
+    "Aldershot": 1200.0,
+    "Faslane": 750.0
+  },
+  {
+    "band": "E",
+    "Wittering": 862.5,
+    "Aldershot": 1425.0,
+    "Faslane": 1050.0
+  },
+  {
+    "band": "F",
+    "Wittering": 1000.0,
+    "Aldershot": 1650.0,
+    "Faslane": 1350.0
+  }
+]

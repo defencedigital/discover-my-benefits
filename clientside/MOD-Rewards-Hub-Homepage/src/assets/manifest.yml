@@ -1,0 +1,19 @@
+applications:
+- name: mod-benefits-calculator-prod-home
+  memory: 64M
+  command: null
+  instances: 2
+  buildpacks:
+  - staticfile_buildpack
+- name: mod-benefits-calculator-uat-home
+  memory: 64M
+  instances: 2
+  command: null
+  buildpacks:
+  - staticfile_buildpack
+- name: mod-benefits-calculator-sandbox-home
+  memory: 64M
+  instances: 2
+  command: null
+  buildpacks:
+  - staticfile_buildpack

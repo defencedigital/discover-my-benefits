@@ -1,0 +1,51 @@
+@import './breakpoints.scss';
+@import './grey-scale-variables.scss';
+
+//== Colors
+//
+//## Gray and brand colors for use across Bootstrap.
+
+$service: 'royal-marines';
+
+$brand-success: #009933;
+$brand-info: #5bc0de;
+$brand-warning: #ff9933;
+$brand-danger: #cc0000;
+
+$brand-primary: #202e21; // #337ab7
+$brand-primary-beta: #317140;
+$brand-secondary-alpha: #3173b5;
+$brand-secondary-beta: #c01f34;
+
+$brand-secondary-alpha-darker: #235180;
+$brand-secondary-beta-darker: #7a1321;
+
+$brand-eligible: $brand-success;
+$brand-ineligible: #9c9c9c;
+
+//Scaffolding
+
+//** Background color for `<body>`.
+$body-bg: $white;
+//** Global text color on `<body>`.
+$text-color: $brand-primary;
+$text-color-invert: $white;
+
+//** Global textual link color.
+$link-color: $brand-primary;
+//** Link hover color set via `darken()` function.
+$link-hover-color: $brand-primary-beta;
+//** Link hover decoration.
+$link-hover-decoration: underline;
+
+$btn-text-color: $text-color-invert;
+
+$headings-color: $text-color;
+
+$container-color: $white;
+$contrast-text-color: #fff;
+$theme-colors: (
+  primary: $brand-primary,
+) !default;
+
+$jumbotron-padding: 1rem;

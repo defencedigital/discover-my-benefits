@@ -1,0 +1,19 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+# internals
+server
+deploy
+node_modules
+# /Squidex
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+backup
+app/json/squidex/*
+app/images/cms
+.eslintrc.js
+app/css
+/app/css

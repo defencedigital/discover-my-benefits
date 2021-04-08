@@ -1,0 +1,236 @@
+.card {
+  display: block !important;
+  text-align: left;
+}
+
+.active.card {
+  border-color: $brand-primary;
+
+  .card-header {
+    border-color: $brand-primary;
+  }
+}
+
+.not-eligible.card {
+  // background-color: $gray-lighter;
+  color: $brand-primary;
+
+  .card-link {
+    color: $brand-primary;
+
+    &:hover {
+      color: $brand-secondary-alpha;
+    }
+  }
+
+  .card-header {
+    color: $brand-primary;
+  }
+}
+
+.not-eligible.active.card {
+  // background-color: $gray-lighter;
+  color: $brand-primary;
+  border-color: $brand-primary;
+
+  .card-header {
+    border-color: $brand-primary;
+    color: $brand-primary;
+  }
+}
+
+.disabled.active.card {
+  border-color: $brand-primary;
+
+  .card-header {
+    border-color: $brand-primary;
+  }
+
+}
+
+.card-header-link svg{
+  width: 20px;
+  position: absolute;
+  left: 9px;
+  top: 8px;
+}
+
+.card-link {
+  &:hover {
+    cursor: pointer;
+
+    .card-title {
+      text-decoration: underline;
+    }
+  }
+
+  &.disabled {
+    text-decoration: none;
+    //color: $black;
+    cursor: default;
+
+    &:hover {
+      text-decoration: none;
+      //color: $black;
+      cursor: default;
+
+      .card-title {
+        text-decoration: none;
+        //color: $black;
+        cursor: default;
+      }
+    }
+  }
+}
+
+.card-text {
+  font-size: 1.4rem;
+  line-height: 2.0rem;
+}
+
+.card-body {
+  display: block;
+  padding: 16px 13px;
+  position: relative;
+
+  &.adjust-padding-mobile {
+    @include media-breakpoint-down(xs) {
+      padding: 8px;
+    }
+  }
+}
+
+.card-body-has-sibling {
+  padding-bottom: 0;
+}
+
+.card-body-sibling {
+  padding: 0 13px 13px 13px;
+
+  .hideTextOnXs {
+    @include media-breakpoint-down(xs) {
+      display: none;
+    }
+  }
+}
+
+.card-header {
+  position: relative;
+  background-color: $gray-light;
+  padding: 13px;
+  min-height: 40px;
+}
+
+.card-header-eligible,
+.card-header-missing,
+.card-header-not-eligible,
+.card-header-useful {
+  padding-left: 20px;
+}
+
+.card-header span {
+  display: inline-block;
+  vertical-align: bottom;
+  padding-left: 20px;
+  font-size: 1.4rem;
+}
+
+.card-header-eligible::before {
+  content: '';
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+  background: url('/' + $service + '/tick.svg');
+}
+
+.card-header-missing::before {
+  content: '';
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+  background: url('/' + $service + '/question.svg');
+}
+
+.card-header-useful::before {
+  content: '';
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+  background: url('/' + $service + '/book.svg') no-repeat;
+}
+
+.card-header-not-eligible::before {
+  content: '';
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+  background: url('/' + $service + '/cross.svg');
+}
+
+.card-tags {
+  padding-top: 10px;
+  margin: 0 -5px;
+}
+
+.card-tag {
+  border-radius: 15px;
+  background-color: $gray-light;
+  font-size: 1.2rem;
+  margin: 0 2.5px 5px 2.5px;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+}
+
+.card-tag--fam {
+  background-color: $brand-primary;
+  color: white;
+}
+
+.card-eligibility-indicators {
+  right: 0;
+  position: absolute;
+  top: -40px;
+  padding: 5px 10px 5px 10px;
+  background: $gray-med-light;
+  font-size: 1.3rem;
+  text-decoration: none;
+  display: inline-block;
+  text-align: right;
+
+  @include media-breakpoint-down(xs) {
+    top: -8px;
+    left: -8px;
+    display: block;
+    width: calc(100% + 16px);
+    position: relative;
+  }
+}
+
+.card-eligibility-indicators span {
+  text-decoration: none;
+  display: inline-block;
+  margin: 5px;
+  min-height: 17px;
+  text-align: center;
+}
+
+.card-eligibility-indicators span.card-eligibility-text {
+  width: 100%;
+  display: block;
+  margin-top: 8px;
+}
+
+

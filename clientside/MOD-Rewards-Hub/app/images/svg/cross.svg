@@ -1,0 +1,19 @@
+
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.8755267,9.76913421 L16.8370491,9.76913421 L16.8370491,11.6034488 L10.8755267,11.6034488 L10.8755267,17.5649712 L9.04121215,17.5649712 L9.04121215,11.6034488 L3.07968978,11.6034488 L3.07968978,9.76913421 L9.04121215,9.76913421 L9.04121215,3.80761184 L10.8755267,3.80761184 L10.8755267,9.76913421 Z" id="path-1"></path>
+    </defs>
+    <g id="📐-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Categories_Travel_Mine-(Navy)-Copy" transform="translate(-449.000000, -654.000000)">
+            <g id="Icon/Cross" transform="translate(449.000000, 653.000000)">
+                <circle id="Oval-2" fill="#9C9C9C" fill-rule="evenodd" cx="10" cy="11" r="10"></circle>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" fill-rule="evenodd" transform="translate(9.958369, 10.686292) rotate(45.000000) translate(-9.958369, -10.686292) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

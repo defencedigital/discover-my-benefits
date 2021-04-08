@@ -1,0 +1,36 @@
+.feature-list {
+  background-color: $brand-primary;
+  color: $text-color-invert;
+  padding: 40px;
+  border-radius: 5px;
+  margin: 40px 0 60px;
+}
+
+.feature-list .check-list {
+  list-style-type: none;
+  padding: 20px 40px;
+  margin-bottom: 20px;
+}
+
+.feature-list .check-list-item {
+  position: relative;
+  margin-bottom: 20px;
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    left: -40px;
+    top: 0;
+    width: 25px;
+    height: 25px;
+    background-image: url('/' + $service + '/tick.svg');
+    background-size: 100%;
+  }
+}
+

@@ -1,0 +1,57 @@
+.changelog-flyout.changelog-flyout-is-active {
+  transform: translateX(-100%);
+}
+
+.changelog-flyout {
+  width: 100%;
+  height: 100%;
+  transition: transform 500ms ease-in-out;
+  transform: translateX(0);
+  top: 0;
+  background: white;
+  position: fixed;
+  right: -100%;
+  z-index: 50;
+  height: 100%;
+  bottom: 0;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+
+  @include media-breakpoint-down(md) {
+    display: block;
+    width: 100%;
+  }
+}
+
+.changelog-flyout-close{
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 70px;
+  height: 70px;
+  display: block;
+  padding: 16px;
+  &::before{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: url('/' + $service + '/cross-grey.svg') no-repeat;
+    top: 23px;
+    right: 16px;
+
+  }
+  span{
+    display: block;
+    position: absolute;
+    top: 48px;
+    right: 24px;
+  }
+}
+
+
+
+
+

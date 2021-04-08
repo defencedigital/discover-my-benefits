@@ -1,0 +1,62 @@
+---
+defaults: &defaults
+  memory: 128M
+  buildpacks:
+  - nodejs_buildpack
+  command: cross-env NODE_ENV=production node server
+
+
+
+applications:
+- name: mod-benefits-calculator-dev-navy
+  <<: *defaults
+  env:
+    SERVICE: royal-navy
+    ONETRUST: fc7db5f2-536f-494a-9468-1f6dd71b602
+- name: mod-benefits-calculator-dev-marines
+  <<: *defaults
+  env:
+    SERVICE: royal-marines
+    ONETRUST: fc7db5f2-536f-494a-9468-1f6dd71b602
+- name: mod-benefits-calculator-dev-army
+  <<: *defaults
+  env:
+    SERVICE: army
+    ONETRUST: fc7db5f2-536f-494a-9468-1f6dd71b602
+- name: mod-benefits-calculator-dev-raf
+  <<: *defaults
+  env:
+    SERVICE: raf
+    ONETRUST: fc7db5f2-536f-494a-9468-1f6dd71b602
+- name: mod-benefits-calculator-uat-navy
+  <<: *defaults
+  env:
+    SERVICE: royal-navy
+    ONETRUST: c684da57-c506-42c8-baa1-265a5f67736
+- name: mod-benefits-calculator-uat-marines
+  <<: *defaults
+  env:
+    SERVICE: royal-marines
+    ONETRUST: c684da57-c506-42c8-baa1-265a5f67736
+- name: mod-benefits-calculator-uat-army
+  <<: *defaults
+  env:
+    SERVICE: army
+    ONETRUST: c684da57-c506-42c8-baa1-265a5f67736
+- name: mod-benefits-calculator-uat-raf
+  <<: *defaults
+  env:
+    SERVICE: raf
+    ONETRUST: c684da57-c506-42c8-baa1-265a5f67736
+- name: mod-benefits-calculator-prod-navy
+  <<: *defaults
+  instances: 2
+- name: mod-benefits-calculator-prod-marines
+  <<: *defaults
+  instances: 2
+- name: mod-benefits-calculator-prod-army
+  <<: *defaults
+  instances: 2
+- name: mod-benefits-calculator-prod-raf
+  <<: *defaults
+  instances: 2

@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/main.css">
+    <title>Discover My Benefits | Find out what you’re entitled to</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5a5a5a">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="description" content="Discover My Benefits is a free, easy-to-use tool for Service people and their families. Find out what support you could receive as a Service person.">
+    <meta property="og:title" content="Discover My Benefits | Find out what you’re entitled to">
+    <meta property="og:image" content="/Discover-My-Benefits-Share.jpg">
+    <meta property="og:description" content="Discover My Benefits is a free, easy-to-use tool for Service people and their families. Find out what support you could receive as a Service person.">
+    <!-- dev message -->
+    <link rel="stylesheet" type="text/css" href="/main.css">
+     <!-- UAT COOKIE -->
+    <!-- OneTrust Cookies Consent Notice start -->
+    <script type="text/javascript" src="https://cdn.cookielaw.org/consent/fc7db5f2-536f-494a-9468-1f6dd71b6023/OtAutoBlock.js" ></script>
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="fc7db5f2-536f-494a-9468-1f6dd71b6023"></script>
+    <script type="text/javascript">
+    function OptanonWrapper() { }
+    </script>
+    <!-- OneTrust Cookies Consent Notice start -->
+    <script type="text/javascript">
+      (function () {
+        if(navigator.userAgent.indexOf('MSIE')!==-1|| navigator.appVersion.indexOf('Trident/') > -1){
+        }
+      })();
+    </script>
+    <!-- OneTrust Cookies Consent Notice end -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P5ZJCTS');</script>
+    <!-- End Google Tag Manager -->
+    <script>
+      function toggleView(e) {
+        if (!document.querySelector('.col-half')) {
+          e.preventDefault();
+          var army = document.querySelector('.col-army');
+          var raf = document.querySelector('.col-raf');
+          var marines = document.querySelector('.col-marines');
+          var navy = document.querySelector('.col-navy');
+          var civilian = document.querySelector('.col-civilian');
+          var btn = document.querySelector('.back-btn');
+          var cols = document.querySelectorAll('.homepage-col-quarter');
+          [].forEach.call(cols, function(i, index) {
+            cols[index].classList.add('col-half');
+            var panel = cols[index].querySelector('.service-panel-desktop.rect');
+            panel.classList.remove('rect');
+          });
+          army.classList.add('hide');
+          raf.classList.add('hide');
+          navy.classList.add('hide-text');
+          navy.classList.add('hide');
+          civilian.classList.add('hide');
+          setTimeout(function () {
+            navy.classList.remove('hide');
+          }, 30);
+          marines.classList.remove('hide');
+          btn.classList.remove('hide');
+        }
+      }
+      function goBack(e) {
+        e.preventDefault();
+        var army = document.querySelector('.col-army');
+        var raf = document.querySelector('.col-raf');
+        var marines = document.querySelector('.col-marines');
+        var navy = document.querySelector('.col-navy');
+        var civilian = document.querySelector('.col-civilian');
+        var btn = document.querySelector('.back-btn');
+        var cols = document.querySelectorAll('.homepage-col-quarter');
+        [].forEach.call(cols, function(i, index) {
+          cols[index].classList.remove('col-half');
+          var panel = cols[index].querySelector('.service-panel-desktop');
+          panel.classList.add('rect');
+        });
+        army.classList.remove('hide');
+        civilian.classList.remove('hide');
+        raf.classList.remove('hide');
+        navy.classList.remove('hide-text');
+        navy.classList.add('hide');
+        setTimeout(function () {
+          navy.classList.remove('hide');
+        }, 30);
+        marines.classList.add('hide');
+        btn.classList.add('hide');
+      }
+    </script>
+  </head>
+  <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5ZJCTS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="app">
+    <div class="homepage">
+      <div class="homepage-container">
+        <a href="" class="back-btn hide" onclick="goBack.apply(this, arguments)">Back to home</a>
+        <div class="homepage-intro">
+          <h1>Welcome</h1>
+          <h2>Discover My Benefits is an easy-to-use tool for those working in Defence, their families and anyone interested in joining. You can use it to find out what support and benefits are available to you as a service person or civil servant. Choose one of the options below to start exploring your benefits.</h2>
+        </div>
+          <div class="homepage-col-quarter col-navy">
+            <div class="service-panel-desktop rect" style="background-image: url('/Navy.png')">
+            <a class="service-panel-desktop-link" onclick="toggleView.apply(this, arguments)" href="/royal-navy">
+              <div class="service-panel-desktop-text bg-white">
+                <h3 class="service-panel-desktop-title">
+                  <span>Royal Navy <span>& Royal Marines</span></span>
+                </h3>
+                <p class="service-panel-desktop-desc"><span>Find out more </span></p>
+              </div>
+            </a>
+          </div>
+          <div class="service-panel-mobile">
+            <a class="service-panel-mobile-link" onClick="toggleView.apply(this, arguments)" href="/royal-navy">
+              <img class="service-panel-mobile-image" src="/Navy.png" alt="Royal Navy" />
+              <div class="service-panel-mobile-text">
+                <div class="service-panel-mobile-text-inner">
+                  <h3 class="service-panel-mobile-title">
+                    <span>Royal Navy <span>& Royal Marines</span></span>
+                  </h3>
+                  <p class="service-panel-mobile-desc"><span>Find out more</span></p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="homepage-col-quarter col-army">
+          <div class="service-panel-desktop rect" style="background-image: url('/Army.jpg')">
+            <a class="service-panel-desktop-link" href="/army">
+              <div class="service-panel-desktop-text bg-white">
+                <h3 class="service-panel-desktop-title"><span>Army</span></h3>
+                <p class="service-panel-desktop-desc"><span>Find out more </span></p>
+              </div>
+            </a>
+          </div>
+          <div class="service-panel-mobile">
+            <a class="service-panel-mobile-link" href="/army">
+              <img class="service-panel-mobile-image" src="/Army.jpg" alt="Army" />
+              <div class="service-panel-mobile-text">
+                <div class="service-panel-mobile-text-inner">
+                  <h3 class="service-panel-mobile-title"><span>Army</span></h3>
+                  <p class="service-panel-mobile-desc"><span>Find out more</span></p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="homepage-col-quarter col-raf">
+          <div class="service-panel-desktop rect" style="background-image: url('/RAF.png')">
+            <a class="service-panel-desktop-link" href="/raf">
+              <div class="service-panel-desktop-text bg-white">
+                <h3 class="service-panel-desktop-title"><span>Royal Air Force</span></h3>
+                <p class="service-panel-desktop-desc"><span>Find out more </span></p>
+              </div>
+            </a>
+          </div>
+          <div class="service-panel-mobile">
+            <a class="service-panel-mobile-link" href="/raf">
+              <img class="service-panel-mobile-image" src="/RAF.png" alt="RAF" />
+              <div class="service-panel-mobile-text">
+                <div class="service-panel-mobile-text-inner">
+                  <h3 class="service-panel-mobile-title"><span>Royal Air Force</span></h3>
+                  <p class="service-panel-mobile-desc"><span>Find out more</span></p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="homepage-col-quarter col-civilian">
+          <div class="service-panel-desktop rect" style="background-image: url('/civilian.jpg')">
+            <a class="service-panel-desktop-link" href="/civilian">
+              <div class="service-panel-desktop-text bg-white">
+                <h3 class="service-panel-desktop-title"><span>MOD Civilian</span></h3>
+                <p class="service-panel-desktop-desc"><span>Find out more </span></p>
+              </div>
+            </a>
+          </div>
+          <div class="service-panel-mobile">
+            <a class="service-panel-mobile-link" href="/civilian">
+              <img class="service-panel-mobile-image" src="/civilian.jpg" alt="civilian" />
+              <div class="service-panel-mobile-text">
+                <div class="service-panel-mobile-text-inner">
+                  <h3 class="service-panel-mobile-title"><span>MOD Civilian</span></h3>
+                  <p class="service-panel-mobile-desc"><span>Find out more</span></p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="homepage-col-quarter col-marines hide">
+          <div class="service-panel-desktop rect" style="background-image: url('/RoyalMarines.jpg')">
+            <a class="service-panel-desktop-link" href="/royal-marines">
+              <div class="service-panel-desktop-text bg-white">
+                <h3 class="service-panel-desktop-title"><span>Royal Marines</span></h3>
+                <p class="service-panel-desktop-desc"><span>Find out more </span></p>
+              </div>
+            </a>
+          </div>
+          <div class="service-panel-mobile">
+            <a class="service-panel-mobile-link" href="/royal-marines">
+              <img class="service-panel-mobile-image" src="/RoyalMarines.jpg" alt="Royal Marines" />
+              <div class="service-panel-mobile-text">
+                <div class="service-panel-mobile-text-inner">
+                  <h3 class="service-panel-mobile-title"><span>Royal Marines</span></h3>
+                  <p class="service-panel-mobile-desc"><span>Find out more</span></p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ie-overlay">
+       <h2>This website is not supported by the browser you are using. Please download or open the website in one of the follow browsers: </h2>
+       <ul>
+         <li><a href="https://www.google.co.uk/chrome/"><img width="80px" height="80px" src="/chrome-logo.svg" alt="chrome logo"></a></li>
+         <li><a href="https://www.mozilla.org/en-GB/firefox/new/"><img width="80px" height="80px" src="/firefox-logo.svg" alt="firefox logo"></a></li>
+         <li><a href="https://www.microsoft.com/en-us/edge"><img width="80px" height="80px" src="/edge-logo.svg" alt="edge logo"></a></li>
+       </ul>
+    </div>
+  </div>
+   <script type="text/javascript">
+      (function () {
+        if(navigator.userAgent.indexOf('MSIE')!==-1|| navigator.appVersion.indexOf('Trident/') > -1){
+          var app = document.querySelector('#app');
+          var overlay = document.querySelector('.ie-overlay');
+          var homepage = document.querySelector('.homepage');
+          app.removeChild(app.firstChild);
+          homepage.style.display = 'none';
+          overlay.style.display = 'block';
+        }
+      })();
+    </script>
+  </body>
+</html>

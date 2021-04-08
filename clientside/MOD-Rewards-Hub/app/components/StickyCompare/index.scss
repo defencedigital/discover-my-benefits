@@ -1,0 +1,55 @@
+.sticky-compare.not-comparing{
+  display: none;
+  @include media-breakpoint-down(md) {
+    display: block;
+    padding: 10px;
+    &::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+  }
+
+}
+
+.sticky-compare{
+  background: $brand-primary;
+  padding: 25px 0;
+  text-align: center;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+
+
+.sticky-changes-btn{
+  // display: none;
+  @include media-breakpoint-down(md) {
+    display: block;
+    width: 100%;
+  }
+
+}
+
+
+.sticky-compare-btn{
+  background-color: $brand-secondary-beta;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+  &:focus{
+    border: 1px solid $text-color-invert;
+  }
+}
+
+.sticky-compare.is-fixed{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 5;
+}
+
+.question-changes {
+
+}
+

@@ -1,0 +1,6 @@
+# Staticfile
+http_strict_transport_security: true
+root: .
+status_codes:
+  404: /civilian/404.html
+location_include: includes/*.conf

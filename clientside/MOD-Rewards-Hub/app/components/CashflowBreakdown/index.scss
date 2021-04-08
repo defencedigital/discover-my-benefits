@@ -1,0 +1,67 @@
+.cashflow-breakdown {
+  padding: 60px 0;
+  margin: 50px 0 0;
+  background-color: $brand-primary;
+  position: relative;
+  color: $text-color-invert;
+}
+
+.cashflow-breakdown-title {
+  margin: 10px 0 40px 0;
+
+  @media screen and (max-width: $breakpoint-sm) {
+    margin: 10px 0 0;
+  }
+}
+
+.cashflow-breakdown-separator {
+  border-top: 1px solid $white;
+  margin: 20px 0 20px;
+  display: block;
+  width: 100%;
+}
+
+.cashflow-breakdown-title-figure {
+  padding: 0 20px;
+  display: block;
+  width: 100%;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  @media screen and (max-width: $breakpoint-sm) {
+    text-align: left;
+    padding: 0 0 20px;
+  }
+}
+
+.cashflow-breakdown-figure {
+  padding: 20px;
+  display: block;
+  width: 100%;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  @media screen and (max-width: $breakpoint-sm) {
+    text-align: left;
+    padding: 10px 0;
+  }
+}
+
+.cashflow-breakdown-txt {
+  padding: 40px 0 0;
+  display: block;
+  width: 100%;
+
+  @media screen and (max-width: $breakpoint-sm) {
+    padding: 10px 0 0;
+  }
+}
+
+.cashflow-breakdown .copy-col {
+  padding: 0 0 20px 0;
+}
+

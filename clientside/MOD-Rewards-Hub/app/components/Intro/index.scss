@@ -1,0 +1,20 @@
+.intro{
+  padding: 50px 0;
+  width: 100%;
+  max-width: 800px;
+  word-break: break-word;
+
+  @include media-breakpoint-down(sm) {
+
+    padding: 20px 0 15px;
+  }
+}
+
+.intro h1{
+  margin-bottom: 40px;
+}
+
+.intro + .copy-col {
+  margin-top: -20px;
+  max-width: 800px;
+}

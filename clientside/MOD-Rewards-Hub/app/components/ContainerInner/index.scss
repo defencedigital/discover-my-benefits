@@ -1,0 +1,29 @@
+.container-inner {
+  padding: 0 20px;
+
+  @include media-breakpoint-down(md) {
+    padding: 0 10px;
+  }
+
+  @media all and (min-width: 1120px) {
+    max-width: 1280px;
+    margin: 0 auto;
+
+    &.no-padding-lrg {
+      padding: 0;
+    }
+    &.modal-padding-top {
+      padding-top: 70px;
+    }
+  }
+
+  &.profile-container {
+    .form {
+      padding: 24px 0;
+    }
+  }
+}
+
+.container-inner + .footer {
+  margin-top: 50px;
+}
