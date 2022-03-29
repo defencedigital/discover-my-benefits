@@ -123,7 +123,7 @@
     "invariant": "2.2.2",
     "ip": "1.1.5",
     "lodash": "^4.17.19",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "moment": "^2.22.2",
     "prop-types": "^15.7.2",
     "ramda": "^0.25.0",
