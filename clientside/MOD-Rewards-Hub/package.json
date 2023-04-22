@@ -103,7 +103,7 @@
   "dependencies": {
     "@babel/plugin-transform-classes": "^7.12.13",
     "@babel/polyfill": "^7.4.3",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "chalk": "^1.1.3",
     "compression": "^1.7.3",
     "connected-react-router": "^6.6.1",
